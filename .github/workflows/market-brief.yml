@@ -36,13 +36,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
           REPORT_LANGUAGE: ${{ vars.REPORT_LANGUAGE || 'fr' }}
-          # --- Email (optionnel) : renseigne les secrets pour l'activer ---
-          SMTP_HOST: ${{ vars.SMTP_HOST || 'smtp.gmail.com' }}
-          SMTP_PORT: ${{ vars.SMTP_PORT || '587' }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          EMAIL_TO: ${{ vars.EMAIL_TO }}
-          EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+          # --- Telegram (optionnel) : renseigne les secrets pour l'activer ---
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
 
       - name: Sauvegarde des rapports en artifact

@@ -15,8 +15,8 @@ from datetime import datetime
 from typing import Dict, List
 
 from src import config
-from src.tools.email_tool import send_report_email
 from src.tools.gemini_tool import generate_market_summary
+from src.tools.telegram_tool import send_report_telegram
 from src.tools.indicators_tool import calculate_market_indicators
 from src.tools.market_data_tool import get_market_history
 from src.tools.news_tool import get_financial_news
@@ -99,10 +99,9 @@ def run_market_brief_agent() -> dict:
     report_path = save_markdown_report(summary, payload)
     info(f"Rapport principal : {report_path}")
 
-    # [6/7] Envoi de l'email (si configuré ; sinon étape ignorée sans erreur)
-    step(6, 7, "Envoi du rapport par email...")
-    subject = f"📊 Market Brief — {payload['generated_at_human']}"
-    email_sent = send_report_email(subject, summary, report_path, payload)
+    # [6/7] Notification Telegram (si configurée ; sinon étape ignorée sans erreur)
+    step(6, 7, "Envoi de la notification Telegram...")
+    telegram_sent = send_report_telegram(summary, report_path, payload)
 
     # [7/7] Terminé
     step(7, 7, "Terminé.")
@@ -112,5 +111,5 @@ def run_market_brief_agent() -> dict:
         "report_path": report_path,
         "summary": summary,
         "payload": payload,
-        "email_sent": email_sent,
+        "telegram_sent": telegram_sent,
     }
