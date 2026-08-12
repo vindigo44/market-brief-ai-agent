@@ -1,0 +1,60 @@
+name: Market Brief AI Agent
+
+# Déclencheurs :
+#   - workflow_dispatch : bouton "Run workflow" manuel dans l'onglet Actions
+#   - schedule          : exécution automatique toutes les 12 heures (UTC)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+# Nécessaire pour que le job puisse committer reports/latest-market-brief.md
+permissions:
+  contents: write
+
+jobs:
+  market-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Installation des dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Exécution de l'agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          REPORT_LANGUAGE: ${{ vars.REPORT_LANGUAGE || 'fr' }}
+        run: python main.py
+
+      - name: Sauvegarde des rapports en artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-brief-report
+          path: reports/*.md
+          if-no-files-found: warn
+
+      # Optionnel : committe le dernier rapport dans le dépôt pour garder
+      # un historique visible. Nécessite permissions.contents: write (ci-dessus).
+      - name: Commit du dernier rapport
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/latest-market-brief.md
+          if git diff --staged --quiet; then
+            echo "Aucun changement à committer."
+          else
+            git commit -m "chore: mise à jour automatique du market brief [skip ci]"
+            git push
+          fi
