@@ -62,6 +62,7 @@ Ce n'est pas « juste un appel à un LLM ». C'est un **agent** parce que :
 | **News Tool**         | `src/tools/news_tool.py`             | Lit les flux RSS financiers |
 | **Gemini Summary Tool** | `src/tools/gemini_tool.py`         | Demande à Gemini un résumé (fallback local si pas de clé) |
 | **Report Tool**       | `src/tools/report_tool.py`           | Assemble et sauvegarde le rapport Markdown |
+| **Email Tool**        | `src/tools/email_tool.py`            | Envoie le rapport par email à chaque exécution (optionnel) |
 
 L'**agent** (`src/agent/market_brief_agent.py`) est le chef d'orchestre qui
 appelle ces tools dans le bon ordre.
@@ -77,6 +78,9 @@ appelle ces tools dans le bon ordre.
                                                                             │
                                                                             ▼
                                                           reports/latest-market-brief.md
+                                                                            │
+                                                                            ▼
+                                                          Email Tool ─► 📧 boîte mail
 ```
 
 ---
@@ -148,12 +152,13 @@ python main.py
 Vous verrez les étapes s'afficher :
 
 ```
-[1/6] Récupération des données marché...
-[2/6] Calcul des indicateurs...
-[3/6] Récupération des news...
-[4/6] Génération du résumé avec Gemini...
-[5/6] Sauvegarde du rapport...
-[6/6] Terminé.
+[1/7] Récupération des données marché...
+[2/7] Calcul des indicateurs...
+[3/7] Récupération des news...
+[4/7] Génération du résumé avec Gemini...
+[5/7] Sauvegarde du rapport...
+[6/7] Envoi du rapport par email...
+[7/7] Terminé.
 ```
 
 Le rapport est écrit dans :
@@ -200,6 +205,58 @@ Le workflow lit ce secret via `${{ secrets.GEMINI_API_KEY }}`.
 
 ---
 
+## 📧 Recevoir le rapport par email (optionnel)
+
+L'agent peut **envoyer le rapport par email à chaque exécution**. C'est
+entièrement optionnel : si aucun identifiant SMTP n'est fourni, l'étape est
+simplement ignorée (l'agent ne plante pas).
+
+### a) Créer un « App Password » Gmail
+
+Gmail n'accepte pas ton mot de passe habituel pour le SMTP. Il faut un
+**mot de passe d'application** :
+
+1. Active la **validation en 2 étapes** sur ton compte Google
+   (<https://myaccount.google.com/security>).
+2. Va sur <https://myaccount.google.com/apppasswords>.
+3. Crée un mot de passe d'application (nom au choix, ex. « Market Brief »).
+4. Copie le code à **16 caractères** généré (sans espaces).
+
+> Tu utilises un autre fournisseur ? Change simplement `SMTP_HOST` / `SMTP_PORT`
+> (ex. Outlook : `smtp.office365.com:587`). Le port `465` bascule en SSL direct.
+
+### b) En local — compléter le fichier `.env`
+
+```env
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=ton.adresse@gmail.com
+SMTP_PASSWORD=le_app_password_16_caracteres
+# EMAIL_TO vide => tu te l'envoies à toi-même. Sinon : a@x.com,b@y.com
+EMAIL_TO=
+```
+
+Puis `python main.py` : tu recevras le résumé dans le corps du mail + le
+rapport Markdown complet en **pièce jointe**.
+
+### c) Sur GitHub Actions — ajouter les secrets
+
+Dans **Settings → Secrets and variables → Actions → Secrets** :
+
+| Type | Name | Valeur |
+| ---- | ---- | ------ |
+| Secret | `SMTP_USER` | ton adresse Gmail |
+| Secret | `SMTP_PASSWORD` | ton App Password (16 caractères) |
+
+(Optionnel, onglet **Variables**) : `EMAIL_TO`, `EMAIL_FROM`, `SMTP_HOST`,
+`SMTP_PORT` si tu veux surcharger les défauts. Sans `EMAIL_TO`, le rapport est
+envoyé à `SMTP_USER` (toi-même).
+
+Une fois ces secrets ajoutés, **chaque exécution** (manuelle ou toutes les 12 h)
+t'enverra le rapport par email automatiquement.
+
+---
+
 ## 10. Expliquer le projet en présentation
 
 Trois phrases suffisent :
@@ -229,7 +286,8 @@ market-brief-ai-agent/
 │   │   ├── news_tool.py
 │   │   ├── indicators_tool.py
 │   │   ├── gemini_tool.py
-│   │   └── report_tool.py
+│   │   ├── report_tool.py
+│   │   └── email_tool.py
 │   ├── agent/
 │   │   └── market_brief_agent.py
 │   └── utils/

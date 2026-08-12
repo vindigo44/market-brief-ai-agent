@@ -25,6 +25,27 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip()
 
 # --------------------------------------------------------------------------
+# Email (optionnel) — envoi du rapport à chaque exécution
+#
+# Activé automatiquement dès que SMTP_USER + SMTP_PASSWORD + un destinataire
+# sont renseignés. Sinon, l'étape d'envoi est simplement ignorée (aucun plantage).
+# Par défaut : Gmail (smtp.gmail.com:587, STARTTLS). SMTP_PASSWORD doit être un
+# "App Password" Google (la validation en 2 étapes doit être activée).
+# --------------------------------------------------------------------------
+SMTP_HOST = os.getenv("SMTP_HOST", "smtp.gmail.com").strip()
+try:
+    SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
+except ValueError:
+    SMTP_PORT = 587
+SMTP_USER = os.getenv("SMTP_USER", "").strip()
+SMTP_PASSWORD = os.getenv("SMTP_PASSWORD", "").strip()
+# Destinataire(s) : par défaut, on s'envoie le rapport à soi-même (SMTP_USER).
+EMAIL_TO = os.getenv("EMAIL_TO", "").strip() or SMTP_USER
+EMAIL_TO_LIST = [addr.strip() for addr in EMAIL_TO.split(",") if addr.strip()]
+EMAIL_FROM = os.getenv("EMAIL_FROM", "").strip() or SMTP_USER
+EMAIL_ENABLED = bool(SMTP_USER and SMTP_PASSWORD and EMAIL_TO_LIST)
+
+# --------------------------------------------------------------------------
 # Langue & sorties
 # --------------------------------------------------------------------------
 REPORT_LANGUAGE = os.getenv("REPORT_LANGUAGE", "fr").strip()

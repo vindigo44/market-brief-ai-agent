@@ -15,6 +15,7 @@ from datetime import datetime
 from typing import Dict, List
 
 from src import config
+from src.tools.email_tool import send_report_email
 from src.tools.gemini_tool import generate_market_summary
 from src.tools.indicators_tool import calculate_market_indicators
 from src.tools.market_data_tool import get_market_history
@@ -48,14 +49,14 @@ def run_market_brief_agent() -> dict:
 
     all_tickers = list(config.ALL_TICKERS.keys())
 
-    # [1/6] Données de marché
-    step(1, 6, "Récupération des données marché...")
+    # [1/7] Données de marché
+    step(1, 7, "Récupération des données marché...")
     market_data = get_market_history(all_tickers, period=config.HISTORY_PERIOD)
     ok_count = sum(1 for d in market_data.values() if d.get("ok"))
     info(f"{ok_count}/{len(all_tickers)} tickers récupérés avec succès.")
 
-    # [2/6] Indicateurs
-    step(2, 6, "Calcul des indicateurs...")
+    # [2/7] Indicateurs
+    step(2, 7, "Calcul des indicateurs...")
     indicators = calculate_market_indicators(market_data)
     per_ticker = indicators["per_ticker"]
     info(
@@ -64,8 +65,8 @@ def run_market_brief_agent() -> dict:
         f"{len(indicators['risks'])} risques."
     )
 
-    # [3/6] News
-    step(3, 6, "Récupération des news...")
+    # [3/7] News
+    step(3, 7, "Récupération des news...")
     news = get_financial_news()
     info(f"{len(news)} actualités récupérées.")
 
@@ -89,21 +90,27 @@ def run_market_brief_agent() -> dict:
         "news": news,
     }
 
-    # [4/6] Résumé IA (Gemini ou fallback)
-    step(4, 6, "Génération du résumé avec Gemini...")
+    # [4/7] Résumé IA (Gemini ou fallback)
+    step(4, 7, "Génération du résumé avec Gemini...")
     summary = generate_market_summary(payload)
 
-    # [5/6] Sauvegarde du rapport
-    step(5, 6, "Sauvegarde du rapport...")
+    # [5/7] Sauvegarde du rapport
+    step(5, 7, "Sauvegarde du rapport...")
     report_path = save_markdown_report(summary, payload)
     info(f"Rapport principal : {report_path}")
 
-    # [6/6] Terminé
-    step(6, 6, "Terminé.")
+    # [6/7] Envoi de l'email (si configuré ; sinon étape ignorée sans erreur)
+    step(6, 7, "Envoi du rapport par email...")
+    subject = f"📊 Market Brief — {payload['generated_at_human']}"
+    email_sent = send_report_email(subject, summary, report_path, payload)
+
+    # [7/7] Terminé
+    step(7, 7, "Terminé.")
     log("=" * 64)
 
     return {
         "report_path": report_path,
         "summary": summary,
         "payload": payload,
+        "email_sent": email_sent,
     }
