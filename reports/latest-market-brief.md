@@ -1,191 +1,200 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-09-10 15:15 (UTC)
+**Date et heure de génération :** 2026-09-11 01:32 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
 ## Résumé IA
 
-Bonjour,
+Analyse Éducative de Veille de Marché (Générée le 2026-09-11 01:32 UTC)
 
-Voici une analyse éducative des données de marché générées le 2026-09-10 à 15:15 (UTC). Cette analyse est fournie à des fins éducatives uniquement et ne constitue en aucun cas un conseil financier personnalisé.
-
----
-
-### **Vue d'ensemble du marché**
-
-Les marchés mondiaux affichent une tendance majoritairement baissière sur les périodes récentes, avec des reculs notables sur 1 jour, 5 jours et 1 mois pour la plupart des indices majeurs aux États-Unis et en Europe.
+Cette analyse est fournie à titre éducatif uniquement et ne constitue en aucun cas un conseil financier personnalisé. Les informations présentées sont basées sur des données de marché réelles et des indicateurs calculés, mais les performances passées ne préjugent pas des résultats futurs.
 
 ---
 
-### **Marché US**
+### Vue d'Ensemble du Marché
 
-**Indices US**
-Les principaux indices américains montrent une dynamique négative :
-*   Le **S&P 500 (^GSPC)** est à 7 604.25, avec une baisse de -0.42% sur 1 jour, -0.81% sur 5 jours et -1.92% sur 1 mois, affichant une tendance baissière.
-*   Le **Nasdaq (^IXIC)**, à 26 147.48, recule de -0.40% sur 1 jour, -0.27% sur 5 jours et -1.72% sur 1 mois, également en tendance baissière.
-*   Le **Dow Jones (^DJI)**, à 52 131.25, enregistre une diminution de -0.48% sur 1 jour, -1.75% sur 5 jours et -3.42% sur 1 mois, confirmant une tendance baissière.
-
-L'ensemble des indices majeurs américains se trouvent donc dans une phase de recul sur le court et moyen terme, signalant une pression vendeuse généralisée.
-
-**Watchlist US**
-Parmi les grandes capitalisations américaines :
-*   **Apple (AAPL)** se distingue avec un prix de 321.87, en hausse de +2.07% sur 1 jour et +4.41% sur 1 mois, malgré un léger recul sur 5 jours. Sa tendance est haussière, ce qui est un signal positif à surveiller dans le contexte actuel.
-*   **Microsoft (MSFT)** est à 491.42, avec des baisses sur toutes les périodes (-0.05% sur 1j, -1.09% sur 5j, -2.89% sur 1 mois), et une tendance baissière.
-*   **Nvidia (NVDA)**, à 218.34, affiche un recul significatif de -2.38% sur 1 jour et -2.70% sur 5 jours, mais reste légèrement positif sur 1 mois (+0.36%). Sa tendance est baissière.
-*   **Tesla (TSLA)**, à 366.40, montre une performance robuste sur 5 jours (+2.63%) et 1 mois (+10.74%), malgré un léger repli sur 1 jour. Sa tendance est haussière, un signal positif à surveiller.
-*   **Amazon (AMZN)** est à 252.87, avec une légère hausse sur 1 jour (+0.19%) mais des baisses sur 5 jours (-0.83%) et surtout sur 1 mois (-9.07%). Sa tendance est baissière.
-*   **Meta (META)**, à 655.52, est en hausse sur 1 jour (+0.28%), 5 jours (+10.57%) et 1 mois (+10.19%), affichant une tendance haussière très marquée. C'est un signal positif important à surveiller.
-*   **Alphabet (Google) (GOOGL)**, à 330.62, est stable sur 1 jour (-0.01%) mais en baisse sur 5 jours (-1.93%) et 1 mois (-7.52%), avec une tendance baissière.
+Le marché global présente une tendance majoritairement baissière sur les indices clés, tant aux États-Unis qu'en Europe, sur les horizons d'un jour, cinq jours et un mois. Cependant, une analyse plus détaillée des valeurs individuelles révèle des dynamiques variées, avec certains titres affichant des signaux positifs malgré la pression générale.
 
 ---
 
-### **Marché France / Europe**
+### Marché US
 
-**Indices Europe**
-Les indices européens reflètent également une dynamique négative :
-*   Le **CAC 40 (^FCHI)** est à 8 121.77, en baisse de -0.43% sur 1 jour, -1.99% sur 5 jours et -6.92% sur 1 mois, avec une tendance baissière.
-*   L'**Euro Stoxx 50 (^STOXX50E)**, à 6 274.64, recule de -0.58% sur 1 jour, -1.69% sur 5 jours et -3.99% sur 1 mois, également en tendance baissière.
-*   Le **DAX (^GDAXI)**, à 25 406.37, enregistre des baisses de -0.66% sur 1 jour, -2.30% sur 5 jours et -3.49% sur 1 mois, confirmant une tendance baissière.
+**Indices US :**
+Les principaux indices américains affichent une tendance baissière marquée.
+*   Le **S&P 500 (^GSPC)** a reculé de 0.58% sur la journée, de 0.98% sur 5 jours et de 1.77% sur le mois.
+*   Le **Nasdaq (^IXIC)** a également connu une baisse de 0.65% sur la journée, de 0.52% sur 5 jours et de 1.38% sur le mois.
+*   Le **Dow Jones (^DJI)** est en recul de 0.60% sur la journée, de 1.88% sur 5 jours et de 3.21% sur le mois.
+Ces mouvements indiquent une pression vendeuse généralisée sur le marché américain.
 
-Les marchés européens sont donc également sous pression, avec des reculs significatifs sur le mois écoulé.
-
-**Watchlist France**
-Parmi les valeurs françaises :
-*   **LVMH (MC.PA)**, à 407.65, est en forte baisse sur toutes les périodes (-0.88% sur 1j, -7.14% sur 5j, -15.50% sur 1 mois), avec une tendance baissière prononcée. C'est un signal négatif à surveiller.
-*   **L'Oréal (OR.PA)**, à 374.25, recule également sur toutes les périodes (-1.95% sur 1j, -2.79% sur 5j, -3.67% sur 1 mois), avec une tendance baissière.
-*   **Airbus (AIR.PA)**, à 196.40, est stable sur 1 jour (+0.03%) mais en léger recul sur 5 jours (-0.25%) et en baisse plus marquée sur 1 mois (-8.50%). Sa tendance est baissière.
-*   **TotalEnergies (TTE.PA)**, à 78.33, montre une résilience avec de légères hausses sur 1 jour (+0.15%) et 5 jours (+0.04%), et une progression notable sur 1 mois (+3.69%). Sa tendance est haussière, un signal positif à surveiller dans un marché baissier.
-*   **BNP Paribas (BNP.PA)**, à 102.64, est en léger recul sur 1 jour (-0.12%) et 5 jours (-0.45%), et en baisse plus significative sur 1 mois (-9.01%). Sa tendance est baissière.
-*   **Schneider Electric (SU.PA)**, à 287.25, recule sur 1 jour (-0.85%) mais est en légère hausse sur 5 jours (+0.17%), tout en étant en baisse sur 1 mois (-4.96%). Sa tendance est baissière.
-*   **Hermès (RMS.PA)**, à 1 409.00, est stable sur 1 jour mais en forte baisse sur 5 jours (-8.03%) et 1 mois (-14.32%), avec une tendance baissière. C'est un signal négatif à surveiller.
-
----
-
-### **Signaux à surveiller**
-
-**Signaux positifs (variation 5j > +3%)**
-*   **Meta (META)** : +10.57% sur 5 jours. Cette performance indique une forte dynamique positive à court terme.
-
-**Signaux négatifs (variation 5j < -3%)**
-*   **Hermès (RMS.PA)** : -8.03% sur 5 jours.
-*   **LVMH (MC.PA)** : -7.14% sur 5 jours.
-Ces deux valeurs du luxe affichent des reculs importants sur la semaine, ce qui peut indiquer une pression sectorielle ou des préoccupations spécifiques.
-
-**Risques à suivre**
-*   **Tesla (TSLA)** : Volatilité élevée. Les mouvements de prix peuvent être rapides et importants.
-*   **Nvidia (NVDA)** : Volatilité élevée. Similaire à Tesla, des variations de prix significatives sont à anticiper.
+**Watchlist US :**
+La situation est plus contrastée pour les valeurs individuelles :
+*   **Apple (AAPL)** : Bien que sa tendance soit haussière sur le mois (+3.42%), elle montre un signal négatif sur 5 jours (-3.01%) et un léger recul sur la journée (-0.28%). C'est un titre à surveiller en raison de son volume inhabituel.
+*   **Microsoft (MSFT)** : La tendance est baissière, avec des reculs sur toutes les périodes observées (1j -0.47%, 5j -1.87%, 1 mois -2.41%).
+*   **Nvidia (NVDA)** : Ce titre affiche une tendance haussière, avec une progression de +2.87% sur 5 jours et +2.84% sur le mois, malgré un léger repli journalier (-0.91%). Sa volatilité élevée en fait un risque à suivre.
+*   **Tesla (TSLA)** : Un signal positif clair, avec une tendance haussière forte (+3.29% sur 5 jours, +10.52% sur le mois). Cependant, sa volatilité élevée est un risque à suivre.
+*   **Amazon (AMZN)** : La tendance est baissière, avec une baisse notable de 1.78% sur la journée et 7.30% sur le mois.
+*   **Meta (META)** : Un signal positif très fort, avec une progression spectaculaire de +6.55% sur la journée, +12.99% sur 5 jours et +9.11% sur le mois, confirmant une tendance haussière.
+*   **Alphabet (Google) (GOOGL)** : La tendance est baissière, avec un recul significatif de 2.28% sur la journée et 3.82% sur le mois.
 
 ---
 
-### **Actualités récentes**
+### Marché France / Europe
 
-Les actualités récentes mettent en lumière plusieurs thèmes :
-*   Des discussions autour des programmes de leasing d'iPhone d'Apple et l'impact sur les prix.
-*   Des préoccupations concernant la dette américaine, qui dépasse les 40 000 milliards de dollars, et son augmentation sous les administrations récentes.
-*   La hausse des rendements obligataires du Trésor, perçue comme un "danger zone" pour les actions en raison des pressions inflationnistes.
-*   Des interrogations sur le marché immobilier américain, avec des ventes au plus bas de l'année malgré un inventaire élevé.
-*   Des analyses suggérant que le "boom boursier lié à l'IA" pourrait approcher de sa fin selon certaines firmes de Wall Street.
-*   Des actualités spécifiques à des entreprises comme Biohaven (chute suite à un revers) et Primark (passage à la vente en ligne).
+**Indices Europe :**
+Les indices européens sont également sous pression baissière.
+*   Le **CAC 40 (^FCHI)** a chuté de 1.94% sur la journée, de 1.50% sur 5 jours et de 6.52% sur le mois, affichant une tendance baissière.
+*   L'**Euro Stoxx 50 (^STOXX50E)** a reculé de 1.58% sur la journée, de 0.80% sur 5 jours et de 3.43% sur le mois, également en tendance baissière.
+*   Le **DAX (^GDAXI)** a baissé de 1.66% sur la journée, de 1.02% sur 5 jours et de 2.84% sur le mois, confirmant la tendance baissière.
 
-Ces éléments d'actualité peuvent influencer le sentiment général du marché et la performance de secteurs spécifiques.
+**Watchlist France :**
+La plupart des grandes valeurs françaises sont en tendance baissière.
+*   **LVMH (MC.PA)** : La tendance est fortement baissière, avec un signal négatif prononcé (-3.59% sur 1j, -7.58% sur 5j, -14.76% sur 1 mois). Un volume inhabituel est un risque à suivre.
+*   **L'Oréal (OR.PA)** : La tendance est baissière, malgré une légère progression sur 5 jours (+0.62%), le titre recule sur la journée (-1.67%) et le mois (-1.75%).
+*   **Airbus (AIR.PA)** : La tendance est baissière, avec un recul de 2.17% sur la journée et 8.53% sur le mois.
+*   **TotalEnergies (TTE.PA)** : C'est une exception notable avec une tendance haussière, progressant sur toutes les périodes (1j +0.59%, 5j +0.77%, 1 mois +3.53%).
+*   **BNP Paribas (BNP.PA)** : La tendance est baissière, avec un recul de 8.90% sur le mois.
+*   **Schneider Electric (SU.PA)** : La tendance est baissière, avec une baisse de 3.30% sur la journée et 4.15% sur le mois.
+*   **Hermès (RMS.PA)** : La tendance est fortement baissière, avec un signal négatif important (-2.32% sur 1j, -8.65% sur 5j, -14.32% sur 1 mois).
+
+---
+
+### Signaux Positifs (variation 5j > +3%)
+
+*   **Meta (META)** : Une performance remarquable de +12.99% sur 5 jours, suggérant un fort élan positif à surveiller.
+*   **Tesla (TSLA)** : Une progression de +3.29% sur 5 jours, indiquant une dynamique positive à court terme.
+
+Ces titres montrent une force relative significative dans un marché globalement en recul, ce qui pourrait indiquer un intérêt accru des participants de marché.
 
 ---
 
-### **Conclusion éducative**
+### Signaux Négatifs (variation 5j < -3%)
 
-Le marché global, tant aux États-Unis qu'en Europe, traverse une période de correction avec des tendances baissières généralisées sur les indices. Cependant, certaines entreprises parviennent à se démarquer avec des dynamiques positives, comme Apple, Tesla et Meta aux US, ou TotalEnergies en France, ce qui peut indiquer une résilience sectorielle ou des facteurs spécifiques à ces entreprises. À l'inverse, le secteur du luxe en France (LVMH, Hermès) montre des signaux négatifs marqués. La volatilité reste un facteur clé à surveiller pour des titres comme Tesla et Nvidia. Les actualités économiques et sectorielles, telles que l'inflation, la dette, le marché immobilier et les perspectives autour de l'IA, continuent de façonner les attentes des participants de marché.
+*   **Hermès (RMS.PA)** : Une baisse de -8.65% sur 5 jours, signalant une pression vendeuse notable.
+*   **LVMH (MC.PA)** : Un recul de -7.58% sur 5 jours, indiquant une faiblesse prononcée.
+*   **Apple (AAPL)** : Une diminution de -3.01% sur 5 jours, suggérant une perte de momentum à court terme.
 
-Il est essentiel de rappeler que les performances passées ne préjugent pas des performances futures. Toute décision concernant des actifs financiers doit être basée sur une analyse approfondie et une compréhension de ses propres objectifs et tolérance au risque.
+Ces titres pourraient faire face à des défis ou à une perte de confiance des participants de marché, méritant une attention particulière.
 
 ---
-Cette analyse est fournie à des fins éducatives uniquement et ne constitue pas un conseil financier.
+
+### Risques à Suivre
+
+*   **Tesla (TSLA)** : La volatilité élevée est un facteur constant pour ce titre, ce qui peut entraîner des mouvements de prix rapides et importants.
+*   **Nvidia (NVDA)** : Également caractérisée par une volatilité élevée, ce qui implique des fluctuations de prix significatives.
+*   **LVMH (MC.PA)** : Un volume inhabituel a été observé, ce qui pourrait indiquer des changements importants dans le sentiment des participants de marché ou des événements spécifiques.
+*   **Apple (AAPL)** : Un volume inhabituel est également présent, suggérant une activité de marché accrue qui pourrait précéder ou accompagner des mouvements de prix significatifs.
+
+Ces éléments sont importants à considérer pour toute analyse approfondie, car ils peuvent influencer la direction et l'ampleur des mouvements futurs.
+
+---
+
+### Actualités Récentes
+
+Les actualités récentes mettent en lumière plusieurs facteurs influençant les marchés :
+*   **Géopolitique et Matières Premières** : La baisse du prix de l'or suite aux frappes américaines sur des pétroliers iraniens et les prévisions de Sinopec concernant une chute de la demande chinoise de pétrole en 2026 soulignent l'impact des événements mondiaux sur les marchés des matières premières. L'augmentation des prix du diesel et de l'essence est également un sujet de préoccupation économique.
+*   **Technologie et Innovation** : Meta a vu son cours progresser suite au lancement de son agent IA "Muse AI" avec des abonnements payants, tandis qu'Alphabet a reculé. Oracle bénéficie de ses paris sur l'IA et de la dynamique de son cloud. Adobe a déçu les attentes avec ses derniers résultats. Apple est mentionné pour son futur iPhone pliable et les offres des opérateurs. SpaceX approche un jalon de 100 milliards de dollars, illustrant l'innovation continue dans le secteur spatial.
+*   **Économie et Taux d'Intérêt** : La perspective du rendement du Trésor à 10 ans approchant les 5% est un sujet majeur pour les participants de marché cherchant des revenus, et pourrait influencer les valorisations des actifs.
+
+---
+
+### Conclusion Éducative
+
+L'analyse des données de marché du 11 septembre 2026 révèle un environnement complexe. Les indices majeurs, tant aux États-Unis qu'en Europe, sont majoritairement en tendance baissière sur le court et moyen terme, signalant une période de prudence générale. Cependant, certaines valeurs individuelles, notamment dans le secteur technologique comme Meta et Tesla, affichent des signaux positifs significatifs, souvent liés à des développements spécifiques ou à des dynamiques de marché propres. À l'inverse, des titres comme LVMH, Hermès et Apple montrent des signaux négatifs à court terme, parfois accompagnés de volumes inhabituels qui méritent une attention particulière.
+
+Il est essentiel de comprendre que les marchés sont influencés par une multitude de facteurs, allant des résultats d'entreprise aux événements géopolitiques et aux tendances macroéconomiques. La volatilité de certains titres, comme Tesla et Nvidia, rappelle l'importance d'une gestion rigoureuse des risques. Une approche éducative implique de toujours croiser les informations techniques avec les actualités fondamentales pour obtenir une vision plus complète.
+
+Cette analyse est purement éducative et ne doit pas être interprétée comme un conseil financier. Chaque participant de marché doit effectuer ses propres recherches et analyses avant de prendre toute décision.
 
 ## Marché US
 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| S&P 500 (^GSPC) | 7 604.25 | -0.42% | -0.81% | -1.92% | 🔴 baissière | 790 079 444 |
-| Nasdaq (^IXIC) | 26 147.48 | -0.40% | -0.27% | -1.72% | 🔴 baissière | 2 711 320 000 |
-| Dow Jones (^DJI) | 52 131.25 | -0.48% | -1.75% | -3.42% | 🔴 baissière | 129 256 868 |
+| S&P 500 (^GSPC) | 7 591.70 | -0.58% | -0.98% | -1.77% | 🔴 baissière | 2 763 396 000 |
+| Nasdaq (^IXIC) | 26 081.72 | -0.65% | -0.52% | -1.38% | 🔴 baissière | 6 333 974 000 |
+| Dow Jones (^DJI) | 52 064.10 | -0.60% | -1.88% | -3.21% | 🔴 baissière | 401 279 317 |
 
 ### Watchlist actions US
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| Apple (AAPL) | 321.87 | +2.07% | -0.95% | +4.41% | 🟢 haussière | 22 672 213 |
-| Microsoft (MSFT) | 491.42 | -0.05% | -1.09% | -2.89% | 🔴 baissière | 4 167 138 |
-| Nvidia (NVDA) | 218.34 | -2.38% | -2.70% | +0.36% | 🔴 baissière | 40 083 285 |
-| Tesla (TSLA) | 366.40 | -0.38% | +2.63% | +10.74% | 🟢 haussière | 13 317 247 |
-| Amazon (AMZN) | 252.87 | +0.19% | -0.83% | -9.07% | 🔴 baissière | 8 428 757 |
-| Meta (META) | 655.52 | +0.28% | +10.57% | +10.19% | 🟢 haussière | 9 123 035 |
-| Alphabet (Google) (GOOGL) | 330.62 | -0.01% | -1.93% | -7.52% | 🔴 baissière | 8 364 558 |
+| Apple (AAPL) | 315.34 | -0.28% | -3.01% | +3.42% | 🟢 haussière | 69 820 744 |
+| Microsoft (MSFT) | 491.65 | -0.47% | -1.87% | -2.41% | 🔴 baissière | 15 852 734 |
+| Nvidia (NVDA) | 223.67 | -0.91% | +2.87% | +2.84% | 🟢 haussière | 100 845 811 |
+| Tesla (TSLA) | 367.81 | -0.10% | +3.29% | +10.52% | 🟢 haussière | 29 554 006 |
+| Amazon (AMZN) | 252.40 | -1.78% | -0.99% | -7.30% | 🔴 baissière | 25 371 219 |
+| Meta (META) | 653.69 | +6.55% | +12.99% | +9.11% | 🟢 haussière | 20 418 899 |
+| Alphabet (Google) (GOOGL) | 330.65 | -2.28% | -1.30% | -3.82% | 🔴 baissière | 22 782 704 |
 
 ## Marché France / Europe
 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| CAC 40 (^FCHI) | 8 121.77 | -0.43% | -1.99% | -6.92% | 🔴 baissière | 0 |
-| Euro Stoxx 50 (^STOXX50E) | 6 274.64 | -0.58% | -1.69% | -3.99% | 🔴 baissière | 0 |
-| DAX (^GDAXI) | 25 406.37 | -0.66% | -2.30% | -3.49% | 🔴 baissière | 0 |
+| CAC 40 (^FCHI) | 8 156.67 | -1.94% | -1.50% | -6.52% | 🔴 baissière | 60 176 300 |
+| Euro Stoxx 50 (^STOXX50E) | 6 311.56 | -1.58% | -0.80% | -3.43% | 🔴 baissière | 21 292 800 |
+| DAX (^GDAXI) | 25 576.45 | -1.66% | -1.02% | -2.84% | 🔴 baissière | 0 |
 
 ### Watchlist actions France
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| LVMH (MC.PA) | 407.65 | -0.88% | -7.14% | -15.50% | 🔴 baissière | 436 472 |
-| L'Oréal (OR.PA) | 374.25 | -1.95% | -2.79% | -3.67% | 🔴 baissière | 89 482 |
-| Airbus (AIR.PA) | 196.40 | +0.03% | -0.25% | -8.50% | 🔴 baissière | 289 219 |
-| TotalEnergies (TTE.PA) | 78.33 | +0.15% | +0.04% | +3.69% | 🟢 haussière | 2 098 290 |
-| BNP Paribas (BNP.PA) | 102.64 | -0.12% | -0.45% | -9.01% | 🔴 baissière | 692 428 |
-| Schneider Electric (SU.PA) | 287.25 | -0.85% | +0.17% | -4.96% | 🔴 baissière | 309 365 |
-| Hermès (RMS.PA) | 1 409.00 | +0.00% | -8.03% | -14.32% | 🔴 baissière | 32 792 |
+| LVMH (MC.PA) | 411.25 | -3.59% | -7.58% | -14.76% | 🔴 baissière | 851 469 |
+| L'Oréal (OR.PA) | 381.70 | -1.67% | +0.62% | -1.75% | 🔴 baissière | 280 527 |
+| Airbus (AIR.PA) | 196.34 | -2.17% | +0.08% | -8.53% | 🔴 baissière | 775 400 |
+| TotalEnergies (TTE.PA) | 78.21 | +0.59% | +0.77% | +3.53% | 🟢 haussière | 3 502 416 |
+| BNP Paribas (BNP.PA) | 102.76 | -1.08% | +0.16% | -8.90% | 🔴 baissière | 1 596 559 |
+| Schneider Electric (SU.PA) | 289.70 | -3.30% | +0.52% | -4.15% | 🔴 baissière | 656 398 |
+| Hermès (RMS.PA) | 1 409.00 | -2.32% | -8.65% | -14.32% | 🔴 baissière | 65 528 |
 
 ## Actions à surveiller
 
-- **Apple** (AAPL) — 321.87 | 5j -0.95% | tendance 🟢 haussière
-- **Microsoft** (MSFT) — 491.42 | 5j -1.09% | tendance 🔴 baissière
-- **Nvidia** (NVDA) — 218.34 | 5j -2.70% | tendance 🔴 baissière
-- **Tesla** (TSLA) — 366.40 | 5j +2.63% | tendance 🟢 haussière
-- **Amazon** (AMZN) — 252.87 | 5j -0.83% | tendance 🔴 baissière
-- **Meta** (META) — 655.52 | 5j +10.57% | tendance 🟢 haussière
-- **Alphabet (Google)** (GOOGL) — 330.62 | 5j -1.93% | tendance 🔴 baissière
-- **LVMH** (MC.PA) — 407.65 | 5j -7.14% | tendance 🔴 baissière
-- **L'Oréal** (OR.PA) — 374.25 | 5j -2.79% | tendance 🔴 baissière
-- **Airbus** (AIR.PA) — 196.40 | 5j -0.25% | tendance 🔴 baissière
-- **TotalEnergies** (TTE.PA) — 78.33 | 5j +0.04% | tendance 🟢 haussière
-- **BNP Paribas** (BNP.PA) — 102.64 | 5j -0.45% | tendance 🔴 baissière
-- **Schneider Electric** (SU.PA) — 287.25 | 5j +0.17% | tendance 🔴 baissière
-- **Hermès** (RMS.PA) — 1 409.00 | 5j -8.03% | tendance 🔴 baissière
+- **Apple** (AAPL) — 315.34 | 5j -3.01% | tendance 🟢 haussière
+- **Microsoft** (MSFT) — 491.65 | 5j -1.87% | tendance 🔴 baissière
+- **Nvidia** (NVDA) — 223.67 | 5j +2.87% | tendance 🟢 haussière
+- **Tesla** (TSLA) — 367.81 | 5j +3.29% | tendance 🟢 haussière
+- **Amazon** (AMZN) — 252.40 | 5j -0.99% | tendance 🔴 baissière
+- **Meta** (META) — 653.69 | 5j +12.99% | tendance 🟢 haussière
+- **Alphabet (Google)** (GOOGL) — 330.65 | 5j -1.30% | tendance 🔴 baissière
+- **LVMH** (MC.PA) — 411.25 | 5j -7.58% | tendance 🔴 baissière
+- **L'Oréal** (OR.PA) — 381.70 | 5j +0.62% | tendance 🔴 baissière
+- **Airbus** (AIR.PA) — 196.34 | 5j +0.08% | tendance 🔴 baissière
+- **TotalEnergies** (TTE.PA) — 78.21 | 5j +0.77% | tendance 🟢 haussière
+- **BNP Paribas** (BNP.PA) — 102.76 | 5j +0.16% | tendance 🔴 baissière
+- **Schneider Electric** (SU.PA) — 289.70 | 5j +0.52% | tendance 🔴 baissière
+- **Hermès** (RMS.PA) — 1 409.00 | 5j -8.65% | tendance 🔴 baissière
 
 ## Signaux positifs
 
-- **Meta** (META) : +10.57% sur 5 jours
+- **Meta** (META) : +12.99% sur 5 jours
+- **Tesla** (TSLA) : +3.29% sur 5 jours
 
 ## Signaux négatifs
 
-- **Hermès** (RMS.PA) : -8.03% sur 5 jours
-- **LVMH** (MC.PA) : -7.14% sur 5 jours
+- **Hermès** (RMS.PA) : -8.65% sur 5 jours
+- **LVMH** (MC.PA) : -7.58% sur 5 jours
+- **Apple** (AAPL) : -3.01% sur 5 jours
 
 ## Risques à suivre
 
-- **Tesla** (TSLA) : volatilité élevée (volatilité 3.07%)
-- **Nvidia** (NVDA) : volatilité élevée (volatilité 2.69%)
+- **Tesla** (TSLA) : volatilité élevée (volatilité 3.22%)
+- **Nvidia** (NVDA) : volatilité élevée (volatilité 2.77%)
+- **LVMH** (MC.PA) : volume inhabituel (volatilité 1.68%)
+- **Apple** (AAPL) : volume inhabituel (volatilité 1.27%)
 
 ## News principales
 
-- [Apple's iPhone leasing program: How it works, what to consider as prices increase](https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html) — *Yahoo Finance*
-- ['Rich Dad' Robert Kiyosaki is $1.2 billion in debt — on purpose. Here's why.](https://finance.yahoo.com/personal-finance/investing/article/rich-dad-robert-kiyosaki-is-12-billion-in-debt--on-purpose-heres-why-150004284.html) — *Yahoo Finance*
-- [U.S. Debt Doubles Under Trump and Biden — Now Exceeds $40 Trillion](https://finance.yahoo.com/economy/policy/articles/u-debt-doubles-under-trump-145552736.html) — *Yahoo Finance*
-- [Biohaven Plummets, A Boon For Rival Xenon, On A Surprise Seizure Setback](https://www.investors.com/news/technology/biohaven-stock-focal-onset-seizures-rodent-roxicity/?src=A00220&yptr=yahoo) — *Yahoo Finance*
-- [Primark Goes Online While ABF Goes Down](https://finance.yahoo.com/markets/stocks/articles/primark-goes-online-while-abf-145055921.html) — *Yahoo Finance*
-- [Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up](https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?](https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m always covering for a lazy employee. How can I deal with him without going crazy?](https://www.marketwatch.com/story/im-always-covering-for-a-lazy-employee-how-can-i-deal-with-him-without-going-crazy-5070a6f9?mod=mw_rss_topstories) — *MarketWatch*
-- [‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?](https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories) — *MarketWatch*
-- [Home sales are the lowest they’ve been all year even though inventory is at a 7-year high](https://www.marketwatch.com/story/home-sales-are-the-lowest-theyve-been-all-year-even-though-inventory-is-at-a-7-year-high-16ae55a4?mod=mw_rss_topstories) — *MarketWatch*
-- [Wall Street firm believes the AI stock market boom is 'nearing an end.' Here's why](https://www.cnbc.com/2026/09/10/wall-street-firm-believes-the-ai-stock-market-boom-is-nearing-an-end-heres-why.html) — *CNBC Markets*
-- [How Wall Street viewed Apple's foldable iPhone and what the Duo means for the stock](https://www.cnbc.com/2026/09/10/what-wall-street-thought-of-apples-foldable-iphone-what-duo-means-for-the-stock.html) — *CNBC Markets*
+- [Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers](https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html) — *Yahoo Finance*
+- [Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2%](https://finance.yahoo.com/markets/stocks/articles/meta-rises-6-muse-ai-131927092.html) — *Yahoo Finance*
+- [Realizing Gains as MongoDB’s (MDB) Competitive Landscape Shifts](https://finance.yahoo.com/markets/stocks/articles/realizing-gains-mongodb-mdb-competitive-132014627.html) — *Yahoo Finance*
+- [Sinopec Sees China Oil Demand Falling 8.9% in 2026](https://finance.yahoo.com/energy/articles/sinopec-sees-china-oil-demand-133000908.html) — *Yahoo Finance*
+- [Jim Cramer Calls Natera (NTRA) “a Promising Story”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-natera-ntra-133339649.html) — *Yahoo Finance*
+- [Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast](https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories) — *MarketWatch*
+- [Adobe’s latest earnings leave Wall Street wanting more](https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories) — *MarketWatch*
+- [All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping](https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories) — *MarketWatch*
+- [Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.](https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories) — *MarketWatch*
+- [SpaceX is inching closer to this lofty $100 billion milestone](https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories) — *MarketWatch*
+- [Friday's big stock stories: What’s likely to move the market in the next trading session](https://www.cnbc.com/2026/09/10/fridays-big-stock-stories-whats-likely-to-move-the-market.html) — *CNBC Markets*
+- [The 10-year Treasury yield is approaching 5%. What it means for income-seeking investors](https://www.cnbc.com/2026/09/10/the-10-year-treasury-yield-nears-5percent-what-it-means-for-income-investors.html) — *CNBC Markets*
 
 ## Disclaimer
 
