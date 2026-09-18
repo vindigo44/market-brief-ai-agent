@@ -1,164 +1,177 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-09-18 01:38 (UTC)
+**Date et heure de génération :** 2026-09-18 15:14 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
 ## Résumé IA
 
-Analyse Éducative de Veille de Marché - 18 Septembre 2026
+Analyse Éducative des Marchés – 18 Septembre 2026
 
-Cette analyse éducative présente un aperçu des dynamiques de marché au 18 septembre 2026 à 01:38 (UTC). Elle est destinée à des fins d'information et d'apprentissage uniquement et ne constitue en aucun cas un conseil financier personnalisé.
-
----
-
-## Marché US
-
-### Indices US
-La journée a été globalement positive pour les principaux indices américains. Le **Nasdaq (^IXIC)** se distingue avec une hausse de +1.69% sur 1 jour et une tendance haussière, affichant également des gains sur 5 jours (+1.29%) et 1 mois (+0.49%). Le **S&P 500 (^GSPC)** a progressé de +1.14% sur 1 jour et +0.61% sur 5 jours, mais reste en tendance baissière sur le mois (-0.70%). Le **Dow Jones (^DJI)** a également connu une journée positive (+0.61%), mais sa performance sur 5 jours est négative (-0.55%) et il affiche une tendance baissière marquée sur 1 mois (-2.93%).
-
-### Watchlist US
-Plusieurs titres technologiques affichent des dynamiques intéressantes :
-*   **Apple (AAPL)**, **Tesla (TSLA)**, **Meta (META)** et **Alphabet (Google) (GOOGL)** sont en tendance haussière, avec des performances positives sur 5 jours et 1 mois (à l'exception d'Alphabet sur 1 mois). Meta se distingue avec une hausse très significative de +23.85% sur 1 mois.
-*   À l'inverse, **Microsoft (MSFT)**, **Nvidia (NVDA)** et **Amazon (AMZN)** sont en tendance baissière. Nvidia et Amazon ont enregistré des baisses sur 5 jours et 1 mois, tandis que Microsoft, malgré une légère hausse sur 1 mois, est en recul sur 1 jour et 5 jours.
-
-## Marché France / Europe
-
-### Indices Europe
-Les indices européens ont également terminé la journée sur une note positive, mais la tendance de fond reste baissière sur le moyen terme. Le **CAC 40 (^FCHI)** a progressé de +0.62% sur 1 jour, mais recule de -0.20% sur 5 jours et de -5.12% sur 1 mois, avec une tendance baissière. L'**Euro Stoxx 50 (^STOXX50E)** et le **DAX (^GDAXI)** suivent une dynamique similaire, avec des gains journaliers mais des performances négatives sur 5 jours et 1 mois, et des tendances baissières établies.
-
-### Watchlist France
-Le panorama des entreprises françaises est majoritairement orienté à la baisse :
-*   **TotalEnergies (TTE.PA)** se démarque avec une tendance haussière et des gains sur 5 jours (+2.33%) et 1 mois (+5.40%).
-*   En revanche, **LVMH (MC.PA)**, **L'Oréal (OR.PA)**, **Airbus (AIR.PA)**, **BNP Paribas (BNP.PA)**, **Schneider Electric (SU.PA)** et **Hermès (RMS.PA)** sont tous en tendance baissière. Plusieurs de ces titres affichent des baisses significatives sur 1 mois, notamment Hermès (-10.77%), Schneider Electric (-9.51%), Airbus (-8.39%), BNP Paribas (-7.94%) et LVMH (-7.86%).
+Cette analyse est fournie à titre éducatif uniquement et ne constitue en aucun cas un conseil financier personnalisé. Les données reflètent les conditions de marché au 18 septembre 2026 à 15:14 (UTC).
 
 ---
 
-## Signaux à Surveiller
+### Aperçu Général
 
-### Signaux Positifs (variation 5j > +3%)
-Ces entreprises ont montré une dynamique positive notable sur les cinq derniers jours :
-*   **Apple (AAPL)** : +5.41%
-*   **Alphabet (Google) (GOOGL)** : +3.70%
-*   **Meta (META)** : +3.00%
-
-### Signaux Négatifs (variation 5j < -3%)
-Ces entreprises ont enregistré un recul significatif sur les cinq derniers jours :
-*   **Nvidia (NVDA)** : -4.37%
-*   **Schneider Electric (SU.PA)** : -3.56%
-
-### Risques à Suivre
-Une volatilité élevée peut indiquer des mouvements de prix importants et rapides :
-*   **Tesla (TSLA)** : volatilité élevée
-*   **Nvidia (NVDA)** : volatilité élevée
+Le marché global présente une dynamique contrastée, avec des divergences notables entre les indices américains et européens, ainsi qu'entre différentes valeurs individuelles.
 
 ---
 
-## Actualités Récentes
+### Marché US
 
-Les actualités récentes mettent en lumière plusieurs thèmes clés :
-*   **Décision de la Fed et Marché Obligataire** : L'attention est portée sur la décision de la Réserve Fédérale concernant les taux d'intérêt, avec des mouvements importants observés sur le marché obligataire, notamment le rendement du Trésor à 10 ans. Des stratégies pour les épargnants à la recherche de rendements sont évoquées.
-*   **Secteur Technologique et Semi-conducteurs** : Des mentions de Micron, Intel et d'autres titres de puces poursuivant leur reprise, contrastant avec la volatilité de Nvidia.
-*   **Entreprises Spécifiques** : Des commentaires sur des entreprises comme CoStar, NVR, Brinker, et des attentes autour des futurs produits de Tesla qui pourraient potentiellement décevoir.
-*   **Géopolitique** : Des spéculations sur l'impact des politiques concernant l'Iran.
+**Indices US**
+Les indices américains affichent des performances variées :
+*   Le **S&P 500 (^GSPC)**, à 7 627.10, enregistre de légères baisses sur la journée (-0.14%), la semaine (-0.39%) et le mois (-0.84%), et se trouve dans une tendance baissière.
+*   Le **Nasdaq (^IXIC)**, à 26 401.41, montre une résilience avec une légère hausse sur 5 jours (+0.26%) et un mois (+0.42%), malgré une petite baisse journalière (-0.06%). Sa tendance est haussière.
+*   Le **Dow Jones (^DJI)**, à 51 557.08, connaît une journée difficile (-0.43%) et une semaine (-1.93%) et un mois (-3.35%) nettement négatifs, confirmant une tendance baissière.
+
+**Watchlist US**
+Parmi les valeurs technologiques et de consommation :
+*   **Apple (AAPL)**, à 334.89, affiche une tendance haussière, portée par une forte progression sur un mois (+8.02%).
+*   **Microsoft (MSFT)**, à 493.40, est en tendance baissière malgré une progression de +2.44% sur un mois.
+*   **Nvidia (NVDA)**, à 219.45, maintient une tendance haussière avec de légères progressions sur 1 et 5 jours.
+*   **Tesla (TSLA)**, à 365.87, est également en tendance haussière, avec une progression notable de +8.61% sur un mois.
+*   **Amazon (AMZN)**, à 253.99, est en tendance baissière, malgré une journée positive (+1.11%).
+*   **Meta (META)**, à 675.75, se distingue par une forte tendance haussière, avec une progression impressionnante de +24.29% sur un mois et +4.28% sur 5 jours.
+*   **Alphabet (Google) (GOOGL)**, à 349.99, est en tendance haussière, avec une progression de +3.39% sur 5 jours et +1.68% sur un mois.
 
 ---
 
-## Conclusion Éducative
+### Marché France / Europe
 
-Cette veille de marché révèle une dynamique contrastée. Alors que certains indices et titres américains affichent une vigueur à court terme, notamment dans le secteur technologique (Nasdaq, Apple, Meta, Alphabet), une prudence générale semble de mise avec des tendances baissières prédominantes sur le moyen terme pour le S&P 500, le Dow Jones et l'ensemble des indices européens. La situation du marché obligataire et les décisions des banques centrales demeurent des facteurs macroéconomiques majeurs à considérer pour comprendre les mouvements futurs.
+**Indices Europe**
+Les indices européens affichent une dynamique globalement négative :
+*   Le **CAC 40 (^FCHI)**, à 8 053.18, enregistre des baisses significatives sur la journée (-1.63%), la semaine (-1.55%) et le mois (-5.36%), avec une tendance baissière marquée.
+*   L'**Euro Stoxx 50 (^STOXX50E)**, à 6 230.09, suit une tendance similaire, avec des reculs sur la journée (-1.47%), la semaine (-1.50%) et le mois (-3.68%), en tendance baissière.
+*   Le **DAX (^GDAXI)**, à 25 313.07, est également en tendance baissière, avec des baisses sur la journée (-1.57%), la semaine (-1.00%) et le mois (-3.12%).
+
+**Watchlist France**
+Les valeurs françaises montrent une prédominance de tendances baissières :
+*   **LVMH (MC.PA)**, à 402.25, est en tendance baissière, avec une baisse de -10.16% sur un mois.
+*   **L'Oréal (OR.PA)**, à 377.15, est également en tendance baissière, malgré une légère progression sur un mois (+0.47%).
+*   **Airbus (AIR.PA)**, à 193.58, est en tendance baissière, avec un recul de -7.73% sur un mois.
+*   **TotalEnergies (TTE.PA)**, à 79.36, se démarque avec une tendance haussière, affichant une progression de +3.19% sur un mois.
+*   **BNP Paribas (BNP.PA)**, à 100.28, est en tendance baissière, avec une baisse de -8.34% sur un mois.
+*   **Schneider Electric (SU.PA)**, à 285.30, est en tendance baissière, malgré une journée positive (+2.11%).
+*   **Hermès (RMS.PA)**, à 1 322.50, est en tendance baissière, subissant une forte baisse de -15.25% sur un mois et -6.14% sur 5 jours.
 
 ---
 
-Cette analyse est fournie à titre éducatif uniquement et ne constitue pas un conseil financier. Les performances passées ne préjugent pas des performances futures.
+### Points Clés à Surveiller
+
+**Signaux Positifs (variation 5j > +3%)**
+*   **Meta (META)** : +4.28% sur 5 jours, avec une forte progression mensuelle.
+*   **Alphabet (Google) (GOOGL)** : +3.39% sur 5 jours.
+
+**Signaux Négatifs (variation 5j < -3%)**
+*   **Hermès (RMS.PA)** : -6.14% sur 5 jours, et une baisse significative sur le mois.
+
+**Risques à Suivre**
+*   **Tesla (TSLA)** : Volatilité élevée.
+*   **Nvidia (NVDA)** : Volatilité élevée.
+
+---
+
+### Actualités Récentes
+
+Les actualités récentes couvrent divers sujets, allant de la monétisation des écosystèmes financiers en Inde à des discussions sur les programmes de leasing d'iPhone d'Apple, en passant par des retards de vols spatiaux de SpaceX. Des articles de MarketWatch abordent des sujets de finance personnelle et de gestion de carrière, tandis que CNBC évoque des perspectives pour le secteur des semi-conducteurs et les défis de Netflix. Ces informations peuvent influencer les perceptions du marché et les performances de certaines entreprises.
+
+---
+
+### Conclusion Éducative
+
+Cette analyse met en lumière une divergence claire entre la résilience de certains secteurs technologiques américains, notamment le Nasdaq et des valeurs comme Meta et Alphabet, et une pression baissière plus prononcée sur les indices européens et de nombreuses valeurs du luxe et de la finance en France. Les tendances baissières dominent en Europe, tandis que les États-Unis montrent une image plus mitigée avec des indices majeurs en baisse mais le Nasdaq en hausse. Il est essentiel de noter que les performances passées ne préjugent pas des performances futures.
+
+---
+
+*Cette analyse est fournie à des fins éducatives uniquement et ne constitue pas un conseil financier. Chaque décision relative aux marchés financiers doit être prise après une recherche approfondie et, si nécessaire, en consultation avec un professionnel qualifié.*
 
 ## Marché US
 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| S&P 500 (^GSPC) | 7 637.76 | +1.14% | +0.61% | -0.70% | 🔴 baissière | 2 887 250 000 |
-| Nasdaq (^IXIC) | 26 418.30 | +1.69% | +1.29% | +0.49% | 🟢 haussière | 9 127 066 000 |
-| Dow Jones (^DJI) | 51 778.04 | +0.61% | -0.55% | -2.93% | 🔴 baissière | 406 102 188 |
+| S&P 500 (^GSPC) | 7 627.10 | -0.14% | -0.39% | -0.84% | 🔴 baissière | 1 049 114 000 |
+| Nasdaq (^IXIC) | 26 401.41 | -0.06% | +0.26% | +0.42% | 🟢 haussière | 3 631 523 000 |
+| Dow Jones (^DJI) | 51 557.08 | -0.43% | -1.93% | -3.35% | 🔴 baissière | 191 070 194 |
 
 ### Watchlist actions US
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| Apple (AAPL) | 332.41 | +0.32% | +5.41% | +7.22% | 🟢 haussière | 36 423 997 |
-| Microsoft (MSFT) | 490.30 | -1.37% | -0.27% | +1.80% | 🔴 baissière | 17 779 010 |
-| Nvidia (NVDA) | 213.90 | +0.82% | -4.37% | -2.66% | 🔴 baissière | 92 845 751 |
-| Tesla (TSLA) | 358.08 | +0.42% | -2.65% | +6.30% | 🟢 haussière | 38 770 658 |
-| Amazon (AMZN) | 245.96 | -0.99% | -2.55% | -5.20% | 🔴 baissière | 29 639 613 |
-| Meta (META) | 673.31 | +0.46% | +3.00% | +23.85% | 🟢 haussière | 15 740 199 |
-| Alphabet (Google) (GOOGL) | 342.87 | -0.61% | +3.70% | -0.39% | 🟢 haussière | 19 151 604 |
+| Apple (AAPL) | 334.89 | -0.63% | +0.79% | +8.02% | 🟢 haussière | 19 263 451 |
+| Microsoft (MSFT) | 493.40 | -0.87% | -0.45% | +2.44% | 🔴 baissière | 8 753 464 |
+| Nvidia (NVDA) | 219.45 | +0.05% | +0.53% | -0.13% | 🟢 haussière | 45 939 780 |
+| Tesla (TSLA) | 365.87 | -0.09% | +0.12% | +8.61% | 🟢 haussière | 20 074 510 |
+| Amazon (AMZN) | 253.99 | +1.11% | -1.09% | -2.10% | 🔴 baissière | 20 552 411 |
+| Meta (META) | 675.75 | -0.96% | +4.28% | +24.29% | 🟢 haussière | 9 015 039 |
+| Alphabet (Google) (GOOGL) | 349.99 | +0.77% | +3.39% | +1.68% | 🟢 haussière | 18 638 065 |
 
 ## Marché France / Europe
 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| CAC 40 (^FCHI) | 8 140.59 | +0.62% | -0.20% | -5.12% | 🔴 baissière | 58 584 400 |
-| Euro Stoxx 50 (^STOXX50E) | 6 266.50 | +0.48% | -0.71% | -4.04% | 🔴 baissière | 16 723 000 |
-| DAX (^GDAXI) | 25 537.75 | +0.53% | -0.15% | -3.04% | 🔴 baissière | 0 |
+| CAC 40 (^FCHI) | 8 053.18 | -1.63% | -1.55% | -5.36% | 🔴 baissière | 0 |
+| Euro Stoxx 50 (^STOXX50E) | 6 230.09 | -1.47% | -1.50% | -3.68% | 🔴 baissière | 0 |
+| DAX (^GDAXI) | 25 313.07 | -1.57% | -1.00% | -3.12% | 🔴 baissière | 0 |
 
 ### Watchlist actions France
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| LVMH (MC.PA) | 410.95 | +1.11% | -0.07% | -7.86% | 🔴 baissière | 470 837 |
-| L'Oréal (OR.PA) | 381.90 | +0.18% | +0.05% | +3.22% | 🔴 baissière | 246 575 |
-| Airbus (AIR.PA) | 196.28 | +0.76% | -0.03% | -8.39% | 🔴 baissière | 975 693 |
-| TotalEnergies (TTE.PA) | 80.03 | -0.57% | +2.33% | +5.40% | 🟢 haussière | 2 946 465 |
-| BNP Paribas (BNP.PA) | 102.32 | +1.01% | -0.43% | -7.94% | 🔴 baissière | 2 240 945 |
-| Schneider Electric (SU.PA) | 279.40 | +1.49% | -3.56% | -9.51% | 🔴 baissière | 852 452 |
-| Hermès (RMS.PA) | 1 383.00 | +0.58% | -1.85% | -10.77% | 🔴 baissière | 74 773 |
+| LVMH (MC.PA) | 402.25 | -2.12% | -1.05% | -10.16% | 🔴 baissière | 424 896 |
+| L'Oréal (OR.PA) | 377.15 | -1.24% | +0.43% | +0.47% | 🔴 baissière | 281 171 |
+| Airbus (AIR.PA) | 193.58 | -1.38% | -1.12% | -7.73% | 🔴 baissière | 922 155 |
+| TotalEnergies (TTE.PA) | 79.36 | -0.84% | +1.24% | +3.19% | 🟢 haussière | 3 611 066 |
+| BNP Paribas (BNP.PA) | 100.28 | -1.99% | -2.30% | -8.34% | 🔴 baissière | 2 078 519 |
+| Schneider Electric (SU.PA) | 285.30 | +2.11% | -0.73% | -3.32% | 🔴 baissière | 625 028 |
+| Hermès (RMS.PA) | 1 322.50 | -4.37% | -6.14% | -15.25% | 🔴 baissière | 101 361 |
 
 ## Actions à surveiller
 
-- **Apple** (AAPL) — 332.41 | 5j +5.41% | tendance 🟢 haussière
-- **Microsoft** (MSFT) — 490.30 | 5j -0.27% | tendance 🔴 baissière
-- **Nvidia** (NVDA) — 213.90 | 5j -4.37% | tendance 🔴 baissière
-- **Tesla** (TSLA) — 358.08 | 5j -2.65% | tendance 🟢 haussière
-- **Amazon** (AMZN) — 245.96 | 5j -2.55% | tendance 🔴 baissière
-- **Meta** (META) — 673.31 | 5j +3.00% | tendance 🟢 haussière
-- **Alphabet (Google)** (GOOGL) — 342.87 | 5j +3.70% | tendance 🟢 haussière
-- **LVMH** (MC.PA) — 410.95 | 5j -0.07% | tendance 🔴 baissière
-- **L'Oréal** (OR.PA) — 381.90 | 5j +0.05% | tendance 🔴 baissière
-- **Airbus** (AIR.PA) — 196.28 | 5j -0.03% | tendance 🔴 baissière
-- **TotalEnergies** (TTE.PA) — 80.03 | 5j +2.33% | tendance 🟢 haussière
-- **BNP Paribas** (BNP.PA) — 102.32 | 5j -0.43% | tendance 🔴 baissière
-- **Schneider Electric** (SU.PA) — 279.40 | 5j -3.56% | tendance 🔴 baissière
-- **Hermès** (RMS.PA) — 1 383.00 | 5j -1.85% | tendance 🔴 baissière
+- **Apple** (AAPL) — 334.89 | 5j +0.79% | tendance 🟢 haussière
+- **Microsoft** (MSFT) — 493.40 | 5j -0.45% | tendance 🔴 baissière
+- **Nvidia** (NVDA) — 219.45 | 5j +0.53% | tendance 🟢 haussière
+- **Tesla** (TSLA) — 365.87 | 5j +0.12% | tendance 🟢 haussière
+- **Amazon** (AMZN) — 253.99 | 5j -1.09% | tendance 🔴 baissière
+- **Meta** (META) — 675.75 | 5j +4.28% | tendance 🟢 haussière
+- **Alphabet (Google)** (GOOGL) — 349.99 | 5j +3.39% | tendance 🟢 haussière
+- **LVMH** (MC.PA) — 402.25 | 5j -1.05% | tendance 🔴 baissière
+- **L'Oréal** (OR.PA) — 377.15 | 5j +0.43% | tendance 🔴 baissière
+- **Airbus** (AIR.PA) — 193.58 | 5j -1.12% | tendance 🔴 baissière
+- **TotalEnergies** (TTE.PA) — 79.36 | 5j +1.24% | tendance 🟢 haussière
+- **BNP Paribas** (BNP.PA) — 100.28 | 5j -2.30% | tendance 🔴 baissière
+- **Schneider Electric** (SU.PA) — 285.30 | 5j -0.73% | tendance 🔴 baissière
+- **Hermès** (RMS.PA) — 1 322.50 | 5j -6.14% | tendance 🔴 baissière
 
 ## Signaux positifs
 
-- **Apple** (AAPL) : +5.41% sur 5 jours
-- **Alphabet (Google)** (GOOGL) : +3.70% sur 5 jours
-- **Meta** (META) : +3.00% sur 5 jours
+- **Meta** (META) : +4.28% sur 5 jours
+- **Alphabet (Google)** (GOOGL) : +3.39% sur 5 jours
 
 ## Signaux négatifs
 
-- **Nvidia** (NVDA) : -4.37% sur 5 jours
-- **Schneider Electric** (SU.PA) : -3.56% sur 5 jours
+- **Hermès** (RMS.PA) : -6.14% sur 5 jours
 
 ## Risques à suivre
 
-- **Tesla** (TSLA) : volatilité élevée (volatilité 3.14%)
-- **Nvidia** (NVDA) : volatilité élevée (volatilité 2.80%)
+- **Tesla** (TSLA) : volatilité élevée (volatilité 3.02%)
+- **Nvidia** (NVDA) : volatilité élevée (volatilité 2.72%)
 
 ## News principales
 
-- [Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision](https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html) — *Yahoo Finance*
-- [CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism](https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html) — *Yahoo Finance*
-- [Nasdaq, Dow and S&P 500 Rise Ahead of Fed Rate Decision](https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-rise-133759906.html) — *Yahoo Finance*
-- [NVR Stock: Is NVR Underperforming the Consumer Cyclical Sector?](https://finance.yahoo.com/markets/stocks/articles/nvr-stock-nvr-underperforming-consumer-133902769.html) — *Yahoo Finance*
-- [Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html) — *Yahoo Finance*
-- [The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.](https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories) — *MarketWatch*
-- [Micron, Intel and other chip stocks are furthering their strong comebacks](https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories) — *MarketWatch*
-- [Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?](https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories) — *MarketWatch*
-- [Tesla’s upcoming product frenzy could leave investors disappointed](https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories) — *MarketWatch*
-- [Pet insurance or savings account: What’s the best way to plan for a big vet bill?](https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories) — *MarketWatch*
-- [As Fed raises rates, income investors can buy these bonds for solid yields and a portfolio cushion](https://www.cnbc.com/2026/09/17/as-fed-raises-rates-income-investors-can-buy-these-bonds-for-solid-yields-and-a-portfolio-cushion-.html) — *CNBC Markets*
-- [A breakout in the 10-year Treasury yield could hold back stocks if it reaches this level](https://www.cnbc.com/2026/09/17/a-breakout-in-the-10-year-treasury-yield-could-hold-back-stocks-if-it-reaches-this-level.html) — *CNBC Markets*
+- [Influencers see UPI MDR introduction in India as vital step for ecosystem monetisation: GlobalData](https://finance.yahoo.com/economy/policy/articles/influencers-see-upi-mdr-introduction-144707259.html) — *Yahoo Finance*
+- [Here’s Why the Strategy Exits Boston Omaha Corp. (BOC)](https://finance.yahoo.com/markets/stocks/articles/why-strategy-exits-boston-omaha-144442656.html) — *Yahoo Finance*
+- [Apple's iPhone leasing program: How it works, what to consider as prices increase](https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html) — *Yahoo Finance*
+- [Thermo Fisher Scientific (TMO) is Positioned for Resurgence](https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-tmo-positioned-143434079.html) — *Yahoo Finance*
+- [SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares](https://finance.yahoo.com/markets/stocks/article/spacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html) — *Yahoo Finance*
+- [Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.](https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories) — *MarketWatch*
+- [How can I get my employees to stop oversharing at work?](https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories) — *MarketWatch*
+- [A sideways market and rising earnings are presenting a buying opportunity for this crucial sector](https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories) — *MarketWatch*
+- [‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?](https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories) — *MarketWatch*
+- [This semiconductor stock is in the dumps. BMO says it can bounce back](https://www.cnbc.com/2026/09/18/this-semiconductor-stock-is-in-the-dumps-bmo-says-it-can-bounce-back.html) — *CNBC Markets*
+- [Netflix is headed for its worst year since 2022. Wells Fargo thinks a comeback is unlikely](https://www.cnbc.com/2026/09/18/netflix-is-in-the-doldrums-a-comeback-is-unlikely-wells-fargo-says.html) — *CNBC Markets*
 
 ## Disclaimer
 
