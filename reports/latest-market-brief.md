@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-07 03:17 (UTC)
+**Date et heure de génération :** 2026-11-07 17:00 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -10,10 +10,10 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 **Marché US.** S&P 500 (+0.31% sur 1j, tendance baissière); Nasdaq (+1.09% sur 1j, tendance baissière); Dow Jones (-0.46% sur 1j, tendance baissière); Apple (-0.52% sur 1j, tendance baissière); Microsoft (-0.99% sur 1j, tendance baissière); Nvidia (+2.78% sur 1j, tendance baissière); Tesla (+4.23% sur 1j, tendance baissière); Amazon (-0.35% sur 1j, tendance haussière); Meta (+0.84% sur 1j, tendance baissière); Alphabet (Google) (+0.78% sur 1j, tendance baissière).
 
-**Marché France / Europe.** CAC 40 (-0.81% sur 1j, tendance haussière); Euro Stoxx 50 (-0.98% sur 1j, tendance haussière); DAX (-1.92% sur 1j, tendance haussière); LVMH (+0.58% sur 1j, tendance haussière); L'Oréal (+2.44% sur 1j, tendance haussière); Airbus (-0.61% sur 1j, tendance haussière); TotalEnergies (-1.07% sur 1j, tendance baissière); BNP Paribas (+0.26% sur 1j, tendance haussière); Schneider Electric (-1.60% sur 1j, tendance baissière); Hermès (+1.06% sur 1j, tendance haussière).
+**Marché France / Europe.** CAC 40 (-0.81% sur 1j, tendance haussière); Euro Stoxx 50 (-0.98% sur 1j, tendance haussière); DAX (-1.92% sur 1j, tendance haussière); LVMH (-2.36% sur 1j, tendance haussière); L'Oréal (-1.27% sur 1j, tendance haussière); Airbus (-1.25% sur 1j, tendance haussière); TotalEnergies (-1.20% sur 1j, tendance baissière); BNP Paribas (-0.01% sur 1j, tendance haussière); Schneider Electric (+0.35% sur 1j, tendance baissière); Hermès (-1.77% sur 1j, tendance haussière).
 
-**Signaux positifs à surveiller :** Hermès (+9.56% sur 5j), LVMH (+9.07% sur 5j), Amazon (+7.88% sur 5j), L'Oréal (+7.33% sur 5j), BNP Paribas (+4.89% sur 5j).
-**Signaux négatifs à surveiller :** Tesla (-10.40% sur 5j), Nvidia (-8.80% sur 5j), Schneider Electric (-7.98% sur 5j), TotalEnergies (-4.61% sur 5j), Nasdaq (-3.37% sur 5j).
+**Signaux positifs à surveiller :** Amazon (+7.88% sur 5j), BNP Paribas (+7.33% sur 5j), LVMH (+5.62% sur 5j), Hermès (+5.33% sur 5j).
+**Signaux négatifs à surveiller :** Tesla (-10.40% sur 5j), Nvidia (-8.80% sur 5j), TotalEnergies (-6.67% sur 5j), Schneider Electric (-3.73% sur 5j), Nasdaq (-3.37% sur 5j).
 **Risques à suivre :** Tesla (volatilité élevée), Alphabet (Google) (volatilité élevée), Nvidia (volatilité élevée), Nvidia (volume inhabituel), Amazon (volatilité élevée).
 
 **Conclusion éducative.** Ce panorama présente des signaux positifs, des signaux négatifs et des risques à suivre, uniquement à titre pédagogique. Il ne constitue pas un conseil financier.
@@ -23,9 +23,9 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| S&P 500 (^GSPC) | 7 376.86 | +0.31% | -2.68% | -5.45% | 🔴 baissière | 3 410 452 000 |
-| Nasdaq (^IXIC) | 24 579.42 | +1.09% | -3.37% | -10.75% | 🔴 baissière | 9 385 738 000 |
-| Dow Jones (^DJI) | 51 285.73 | -0.46% | -0.94% | +0.21% | 🔴 baissière | 523 301 136 |
+| S&P 500 (^GSPC) | 7 376.86 | +0.31% | -2.68% | -5.45% | 🔴 baissière | 5 701 900 000 |
+| Nasdaq (^IXIC) | 24 579.43 | +1.09% | -3.37% | -10.75% | 🔴 baissière | 10 621 670 000 |
+| Dow Jones (^DJI) | 51 285.73 | -0.46% | -0.94% | +0.21% | 🔴 baissière | 523 300 000 |
 
 ### Watchlist actions US
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
@@ -50,13 +50,13 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 ### Watchlist actions France
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| LVMH (MC.PA) | 418.65 | +0.58% | +9.07% | +8.57% | 🟢 haussière | 655 265 |
-| L'Oréal (OR.PA) | 455.60 | +2.44% | +7.33% | +21.95% | 🟢 haussière | 419 239 |
-| Airbus (AIR.PA) | 198.88 | -0.61% | +1.29% | +5.79% | 🟢 haussière | 1 197 952 |
-| TotalEnergies (TTE.PA) | 80.70 | -1.07% | -4.61% | +6.58% | 🔴 baissière | 4 040 852 |
-| BNP Paribas (BNP.PA) | 91.94 | +0.26% | +4.89% | -3.31% | 🟢 haussière | 2 739 994 |
-| Schneider Electric (SU.PA) | 227.85 | -1.60% | -7.98% | -12.53% | 🔴 baissière | 1 270 750 |
-| Hermès (RMS.PA) | 1 387.00 | +1.06% | +9.56% | +8.19% | 🟢 haussière | 83 891 |
+| LVMH (MC.PA) | 408.75 | -2.36% | +5.62% | +6.00% | 🟢 haussière | 655 421 |
+| L'Oréal (OR.PA) | 449.80 | -1.27% | +2.94% | +20.40% | 🟢 haussière | 419 239 |
+| Airbus (AIR.PA) | 196.40 | -1.25% | +2.08% | +4.47% | 🟢 haussière | 1 197 952 |
+| TotalEnergies (TTE.PA) | 79.73 | -1.20% | -6.67% | +5.30% | 🔴 baissière | 4 040 852 |
+| BNP Paribas (BNP.PA) | 91.93 | -0.01% | +7.33% | -3.32% | 🟢 haussière | 2 739 994 |
+| Schneider Electric (SU.PA) | 228.65 | +0.35% | -3.73% | -12.23% | 🔴 baissière | 1 270 800 |
+| Hermès (RMS.PA) | 1 362.50 | -1.77% | +5.33% | +6.28% | 🟢 haussière | 84 071 |
 
 ## Actions à surveiller
 
@@ -67,28 +67,27 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 - **Amazon** (AMZN) — 259.30 | 5j +7.88% | tendance 🟢 haussière
 - **Meta** (META) — 610.15 | 5j -0.79% | tendance 🔴 baissière
 - **Alphabet (Google)** (GOOGL) — 284.78 | 5j +1.77% | tendance 🔴 baissière
-- **LVMH** (MC.PA) — 418.65 | 5j +9.07% | tendance 🟢 haussière
-- **L'Oréal** (OR.PA) — 455.60 | 5j +7.33% | tendance 🟢 haussière
-- **Airbus** (AIR.PA) — 198.88 | 5j +1.29% | tendance 🟢 haussière
-- **TotalEnergies** (TTE.PA) — 80.70 | 5j -4.61% | tendance 🔴 baissière
-- **BNP Paribas** (BNP.PA) — 91.94 | 5j +4.89% | tendance 🟢 haussière
-- **Schneider Electric** (SU.PA) — 227.85 | 5j -7.98% | tendance 🔴 baissière
-- **Hermès** (RMS.PA) — 1 387.00 | 5j +9.56% | tendance 🟢 haussière
+- **LVMH** (MC.PA) — 408.75 | 5j +5.62% | tendance 🟢 haussière
+- **L'Oréal** (OR.PA) — 449.80 | 5j +2.94% | tendance 🟢 haussière
+- **Airbus** (AIR.PA) — 196.40 | 5j +2.08% | tendance 🟢 haussière
+- **TotalEnergies** (TTE.PA) — 79.73 | 5j -6.67% | tendance 🔴 baissière
+- **BNP Paribas** (BNP.PA) — 91.93 | 5j +7.33% | tendance 🟢 haussière
+- **Schneider Electric** (SU.PA) — 228.65 | 5j -3.73% | tendance 🔴 baissière
+- **Hermès** (RMS.PA) — 1 362.50 | 5j +5.33% | tendance 🟢 haussière
 
 ## Signaux positifs
 
-- **Hermès** (RMS.PA) : +9.56% sur 5 jours
-- **LVMH** (MC.PA) : +9.07% sur 5 jours
 - **Amazon** (AMZN) : +7.88% sur 5 jours
-- **L'Oréal** (OR.PA) : +7.33% sur 5 jours
-- **BNP Paribas** (BNP.PA) : +4.89% sur 5 jours
+- **BNP Paribas** (BNP.PA) : +7.33% sur 5 jours
+- **LVMH** (MC.PA) : +5.62% sur 5 jours
+- **Hermès** (RMS.PA) : +5.33% sur 5 jours
 
 ## Signaux négatifs
 
 - **Tesla** (TSLA) : -10.40% sur 5 jours
 - **Nvidia** (NVDA) : -8.80% sur 5 jours
-- **Schneider Electric** (SU.PA) : -7.98% sur 5 jours
-- **TotalEnergies** (TTE.PA) : -4.61% sur 5 jours
+- **TotalEnergies** (TTE.PA) : -6.67% sur 5 jours
+- **Schneider Electric** (SU.PA) : -3.73% sur 5 jours
 - **Nasdaq** (^IXIC) : -3.37% sur 5 jours
 
 ## Risques à suivre
@@ -101,18 +100,18 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 ## News principales
 
-- [‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?](https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories) — *MarketWatch*
-- [Elon Musk opens the door for a big SpaceX acquisition](https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories) — *MarketWatch*
-- [Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.](https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories) — *MarketWatch*
-- [Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?](https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories) — *MarketWatch*
-- [‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?](https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories) — *MarketWatch*
+- [The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.](https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories) — *MarketWatch*
+- [The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.](https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories) — *MarketWatch*
+- [I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?](https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories) — *MarketWatch*
+- [My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?](https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories) — *MarketWatch*
+- [You follow the rules for smart stock trading. But are they the right rules?](https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories) — *MarketWatch*
+- [Forget tech and hide out in these stocks instead, Goldman Sachs says](https://www.cnbc.com/2026/11/07/forget-tech-and-hide-out-in-these-stocks-instead-goldman-sachs-says.html) — *CNBC Markets*
+- [These five stock groups could rally after Democrats' midterms sweep, analysts say](https://www.cnbc.com/2026/11/07/these-five-stock-types-could-rally-after-us-midterms-analysts-say.html) — *CNBC Markets*
 - [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) — *CNBC Markets*
 - [This pharmaceutical ETF is outperforming. Why it could keep climbing](https://www.cnbc.com/2026/11/06/this-pharmaceutical-etf-is-outperforming-why-it-could-keep-climbing.html) — *CNBC Markets*
 - [SpaceX is down big on fears of Dem 'retribution' against Musk. Deutsche Bank says buy the dip](https://www.cnbc.com/2026/11/06/spacex-is-down-big-on-dem-retribution-fears-against-musk-deutsche-bank-says-buy-the-dip.html) — *CNBC Markets*
-- [Apple has been outperforming. But, the good times could soon end, Daiwa says](https://www.cnbc.com/2026/11/06/apple-is-on-a-tear-but-it-wont-be-for-long-per-daiwa-capital-markets.html) — *CNBC Markets*
-- [Friday's big stock stories: What’s likely to move the market in the next trading session](https://www.cnbc.com/2026/11/05/fridays-big-stock-stories-whats-likely-to-move-the-market.html) — *CNBC Markets*
-- [Google executive Donald Harrison resigns from SpaceX board](https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426) — *Investing.com*
-- [Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg](https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486) — *Investing.com*
+- [Novartis shelves potential blockbuster pelacarsen as landmark study fails](https://www.investing.com/news/stock-market-news/novartis-shelves-potential-blockbuster-pelacarsen-as-landmark-study-fails-5009935) — *Investing.com*
+- [U.S. memo alleges Nvidia’s CEO was romantically linked to suspected Beijing spy](https://www.investing.com/news/stock-market-news/us-intelligence-memo-ties-nvidias-huang-to-alleged-chinese-spy-ft-reports-5009930) — *Investing.com*
 
 ## Disclaimer
 
