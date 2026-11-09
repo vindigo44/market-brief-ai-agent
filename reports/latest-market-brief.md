@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-08 17:16 (UTC)
+**Date et heure de génération :** 2026-11-09 03:05 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -100,18 +100,18 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 ## News principales
 
+- [‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?](https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories) — *MarketWatch*
+- [The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.](https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m second-guessing my adviser: Is an annuity the right move in this market?](https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories) — *MarketWatch*
 - [‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home](https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories) — *MarketWatch*
 - [Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out](https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories) — *MarketWatch*
-- [‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?](https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories) — *MarketWatch*
-- [My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?](https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories) — *MarketWatch*
-- [Corporate America’s profit numbers are just barely beating Wall Street’s expectations](https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories) — *MarketWatch*
-- [Top Wall Street analysts like these 3 dividend stocks for consistent income](https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html) — *CNBC Markets*
+- [This travel giant is caught in the AI selloff. Here's why I'm buying](https://www.cnbc.com/2026/11/08/this-travel-giant-is-caught-in-the-ai-selloff-heres-why-im-buying.html) — *CNBC Markets*
 - [These funds tout hefty income tied to the tech trade – if you’re willing to deal with the complexity](https://www.cnbc.com/2026/11/08/autocallable-etfs-tech-income-risks.html) — *CNBC Markets*
+- [Top Wall Street analysts like these 3 dividend stocks for consistent income](https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html) — *CNBC Markets*
 - [Forget tech and hide out in these stocks instead, Goldman Sachs says](https://www.cnbc.com/2026/11/07/forget-tech-and-hide-out-in-these-stocks-instead-goldman-sachs-says.html) — *CNBC Markets*
 - [These five stock groups could rally after Democrats' midterms sweep, analysts say](https://www.cnbc.com/2026/11/07/these-five-stock-types-could-rally-after-us-midterms-analysts-say.html) — *CNBC Markets*
-- [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) — *CNBC Markets*
-- [China AI bust threatens Xi’s ’Wall Street East’ ambitions](https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271) — *Investing.com*
-- [Buy the dip in this Canadian stock: RJ](https://www.investing.com/news/stock-market-news/buy-the-dip-in-this-canadian-stock-rj-5010264) — *Investing.com*
+- [Mitsui Chemicals to buy chip materials maker JSR for $11 bln](https://www.investing.com/news/stock-market-news/mitsui-chemicals-to-buy-chip-materials-maker-jsr-for-11-bln-5010413) — *Investing.com*
+- [This cancer-testing stock is BTIG’s top pick after another major earnings beat](https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410) — *Investing.com*
 
 ## Disclaimer
 
