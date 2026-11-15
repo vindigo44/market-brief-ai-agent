@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-15 03:14 (UTC)
+**Date et heure de génération :** 2026-11-15 18:01 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -102,18 +102,18 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 ## News principales
 
-- [SpaceX successfully catches Starship rocket in huge milestone for the space industry](https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?](https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories) — *MarketWatch*
-- [I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?](https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories) — *MarketWatch*
-- [‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?](https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories) — *MarketWatch*
+- [‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?](https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories) — *MarketWatch*
+- [China’s hottest stocks these days have one thing in common: names that sound like sheep](https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories) — *MarketWatch*
 - [‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?](https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories) — *MarketWatch*
+- [Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years](https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories) — *MarketWatch*
+- [‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories) — *MarketWatch*
+- [Top Wall Street analysts are bullish on these 3 stocks for the long term](https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html) — *CNBC Markets*
 - [Juice your growth and save on taxes in this workplace investment account](https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html) — *CNBC Markets*
 - [Bank of America says these stocks have major upside potential in an uncertain market](https://www.cnbc.com/2026/11/14/stocks-with-upside-potential-in-an-uncertain-market.html) — *CNBC Markets*
 - [How Canadian stocks could be big winners of U.S. midterms](https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html) — *CNBC Markets*
 - [Berkshire breaks out to record high with fourth-quarter rally reaching 19%](https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html) — *CNBC Markets*
-- [Nvidia turmoil reshuffles the AI trade. Winners, losers and what investors should watch](https://www.cnbc.com/2026/11/13/nvidia-ceo-exit-amd-broadcom-and-ai-trade-fallout-.html) — *CNBC Markets*
-- [US air travel disruptions to persist until late on Sunday, FAA head says](https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394) — *Investing.com*
-- [Evercore explains why Apple has the right assets to win the personal agents race](https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628) — *Investing.com*
+- [US air travel disruptions continue into third day](https://www.investing.com/news/stock-market-news/us-air-travel-disruptions-continue-into-third-day-5028023) — *Investing.com*
+- [Trump urges Congress to fund air traffic overhaul as flight chaos drags on](https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489) — *Investing.com*
 
 ## Disclaimer
 
