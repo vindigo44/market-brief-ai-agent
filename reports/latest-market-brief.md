@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-14 17:20 (UTC)
+**Date et heure de génération :** 2026-11-15 03:14 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -102,18 +102,18 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 ## News principales
 
-- [‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?](https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories) — *MarketWatch*
+- [SpaceX successfully catches Starship rocket in huge milestone for the space industry](https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?](https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories) — *MarketWatch*
+- [I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?](https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories) — *MarketWatch*
 - [‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?](https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories) — *MarketWatch*
-- [‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories) — *MarketWatch*
-- [My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?](https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories) — *MarketWatch*
-- [U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop](https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories) — *MarketWatch*
+- [‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?](https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories) — *MarketWatch*
 - [Juice your growth and save on taxes in this workplace investment account](https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html) — *CNBC Markets*
 - [Bank of America says these stocks have major upside potential in an uncertain market](https://www.cnbc.com/2026/11/14/stocks-with-upside-potential-in-an-uncertain-market.html) — *CNBC Markets*
 - [How Canadian stocks could be big winners of U.S. midterms](https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html) — *CNBC Markets*
 - [Berkshire breaks out to record high with fourth-quarter rally reaching 19%](https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html) — *CNBC Markets*
 - [Nvidia turmoil reshuffles the AI trade. Winners, losers and what investors should watch](https://www.cnbc.com/2026/11/13/nvidia-ceo-exit-amd-broadcom-and-ai-trade-fallout-.html) — *CNBC Markets*
-- [Thousands of US flights canceled, delayed as air travel system recovers from shutdown](https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394) — *Investing.com*
-- [Italy fines Meta €805 million over access to Android users’ photos](https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370) — *Investing.com*
+- [US air travel disruptions to persist until late on Sunday, FAA head says](https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394) — *Investing.com*
+- [Evercore explains why Apple has the right assets to win the personal agents race](https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628) — *Investing.com*
 
 ## Disclaimer
 
