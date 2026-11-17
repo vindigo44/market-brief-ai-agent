@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-16 21:17 (UTC)
+**Date et heure de génération :** 2026-11-17 05:17 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -10,9 +10,9 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 **Marché US.** S&P 500 (-1.92% sur 1j, tendance baissière); Nasdaq (-2.49% sur 1j, tendance baissière); Dow Jones (-1.41% sur 1j, tendance baissière); Apple (-0.98% sur 1j, tendance haussière); Microsoft (-1.12% sur 1j, tendance baissière); Nvidia (-4.12% sur 1j, tendance baissière); Tesla (-2.69% sur 1j, tendance baissière); Amazon (-3.34% sur 1j, tendance haussière); Meta (-2.38% sur 1j, tendance baissière); Alphabet (Google) (-4.07% sur 1j, tendance baissière).
 
-**Marché France / Europe.** CAC 40 (-0.20% sur 1j, tendance haussière); Euro Stoxx 50 (-0.60% sur 1j, tendance haussière); DAX (-0.57% sur 1j, tendance haussière); LVMH (+0.14% sur 1j, tendance haussière); L'Oréal (-0.23% sur 1j, tendance haussière); Airbus (-1.21% sur 1j, tendance haussière); TotalEnergies (-0.26% sur 1j, tendance haussière); BNP Paribas (-0.14% sur 1j, tendance haussière); Schneider Electric (-0.78% sur 1j, tendance haussière); Hermès (+0.60% sur 1j, tendance haussière).
+**Marché France / Europe.** CAC 40 (-0.20% sur 1j, tendance haussière); Euro Stoxx 50 (-0.60% sur 1j, tendance haussière); DAX (-0.57% sur 1j, tendance haussière); LVMH (-0.31% sur 1j, tendance haussière); L'Oréal (+0.97% sur 1j, tendance haussière); Airbus (-0.77% sur 1j, tendance haussière); TotalEnergies (+1.91% sur 1j, tendance haussière); BNP Paribas (-0.11% sur 1j, tendance haussière); Schneider Electric (-0.55% sur 1j, tendance haussière); Hermès (-0.81% sur 1j, tendance haussière).
 
-**Signaux positifs à surveiller :** TotalEnergies (+4.08% sur 5j), Schneider Electric (+3.05% sur 5j).
+**Signaux positifs à surveiller :** Schneider Electric (+6.47% sur 5j), Airbus (+5.22% sur 5j), BNP Paribas (+3.96% sur 5j), TotalEnergies (+3.06% sur 5j).
 **Signaux négatifs à surveiller :** Nvidia (-12.61% sur 5j), Microsoft (-4.99% sur 5j), Amazon (-3.44% sur 5j).
 **Risques à suivre :** Tesla (volatilité élevée), Nvidia (volatilité élevée), Nvidia (volume inhabituel), Alphabet (Google) (volatilité élevée), Meta (volatilité élevée).
 
@@ -23,40 +23,40 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| S&P 500 (^GSPC) | 7 416.59 | -1.92% | -1.77% | -3.56% | 🔴 baissière | 3 041 600 000 |
-| Nasdaq (^IXIC) | 24 509.76 | -2.49% | -2.94% | -7.27% | 🔴 baissière | 8 037 446 000 |
-| Dow Jones (^DJI) | 51 608.17 | -1.41% | -1.49% | -0.69% | 🔴 baissière | 671 939 922 |
+| S&P 500 (^GSPC) | 7 416.59 | -1.92% | -1.77% | -3.56% | 🔴 baissière | 5 152 460 000 |
+| Nasdaq (^IXIC) | 24 509.76 | -2.49% | -2.94% | -7.27% | 🔴 baissière | 9 208 530 000 |
+| Dow Jones (^DJI) | 51 608.17 | -1.41% | -1.49% | -0.69% | 🔴 baissière | 672 220 000 |
 
 ### Watchlist actions US
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| Apple (AAPL) | 352.78 | -0.98% | +0.60% | +2.87% | 🟢 haussière | 44 715 873 |
-| Microsoft (MSFT) | 517.99 | -1.12% | -4.99% | -2.91% | 🔴 baissière | 29 552 537 |
-| Nvidia (NVDA) | 156.14 | -4.12% | -12.61% | -28.08% | 🔴 baissière | 326 601 200 |
-| Tesla (TSLA) | 379.74 | -2.69% | +0.45% | +3.17% | 🔴 baissière | 29 613 692 |
-| Amazon (AMZN) | 257.75 | -3.34% | -3.44% | -1.79% | 🟢 haussière | 47 307 388 |
-| Meta (META) | 626.41 | -2.38% | -2.33% | -11.20% | 🔴 baissière | 11 466 395 |
-| Alphabet (Google) (GOOGL) | 283.72 | -4.07% | -1.54% | -17.57% | 🔴 baissière | 34 001 874 |
+| Apple (AAPL) | 352.78 | -0.98% | +0.60% | +2.87% | 🟢 haussière | 45 945 500 |
+| Microsoft (MSFT) | 517.99 | -1.12% | -4.99% | -2.91% | 🔴 baissière | 30 198 800 |
+| Nvidia (NVDA) | 156.14 | -4.12% | -12.61% | -28.08% | 🔴 baissière | 331 405 000 |
+| Tesla (TSLA) | 379.74 | -2.69% | +0.45% | +3.17% | 🔴 baissière | 30 156 600 |
+| Amazon (AMZN) | 257.75 | -3.34% | -3.44% | -1.79% | 🟢 haussière | 47 865 100 |
+| Meta (META) | 626.41 | -2.38% | -2.33% | -11.20% | 🔴 baissière | 11 541 500 |
+| Alphabet (Google) (GOOGL) | 283.72 | -4.07% | -1.54% | -17.57% | 🔴 baissière | 34 643 200 |
 
 ## Marché France / Europe
 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| CAC 40 (^FCHI) | 8 352.00 | -0.20% | +1.44% | +4.97% | 🟢 haussière | 0 |
-| Euro Stoxx 50 (^STOXX50E) | 6 348.35 | -0.60% | +0.92% | +2.32% | 🟢 haussière | 0 |
-| DAX (^GDAXI) | 26 598.64 | -0.57% | +1.26% | +3.81% | 🟢 haussière | 0 |
+| CAC 40 (^FCHI) | 8 352.00 | -0.20% | +1.44% | +4.97% | 🟢 haussière | 47 185 100 |
+| Euro Stoxx 50 (^STOXX50E) | 6 348.35 | -0.60% | +0.92% | +2.32% | 🟢 haussière | 16 115 800 |
+| DAX (^GDAXI) | 26 598.64 | -0.57% | +1.26% | +3.81% | 🟢 haussière | 46 124 000 |
 
 ### Watchlist actions France
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| LVMH (MC.PA) | 404.00 | +0.14% | +0.39% | +1.76% | 🟢 haussière | 350 372 |
-| L'Oréal (OR.PA) | 450.15 | -0.23% | +0.75% | +10.49% | 🟢 haussière | 274 581 |
-| Airbus (AIR.PA) | 204.15 | -1.21% | -0.90% | +2.68% | 🟢 haussière | 1 044 047 |
-| TotalEnergies (TTE.PA) | 81.96 | -0.26% | +4.08% | +1.55% | 🟢 haussière | 3 021 412 |
-| BNP Paribas (BNP.PA) | 95.44 | -0.14% | +1.55% | +6.58% | 🟢 haussière | 1 791 862 |
-| Schneider Electric (SU.PA) | 241.55 | -0.78% | +3.05% | -4.64% | 🟢 haussière | 938 898 |
-| Hermès (RMS.PA) | 1 349.50 | +0.60% | -0.30% | +0.90% | 🟢 haussière | 93 439 |
+| LVMH (MC.PA) | 403.45 | -0.31% | -1.30% | +1.62% | 🟢 haussière | 350 372 |
+| L'Oréal (OR.PA) | 451.20 | +0.97% | +0.31% | +10.75% | 🟢 haussière | 274 581 |
+| Airbus (AIR.PA) | 206.65 | -0.77% | +5.22% | +3.94% | 🟢 haussière | 1 044 347 |
+| TotalEnergies (TTE.PA) | 82.17 | +1.91% | +3.06% | +1.81% | 🟢 haussière | 3 021 412 |
+| BNP Paribas (BNP.PA) | 95.57 | -0.11% | +3.96% | +6.72% | 🟢 haussière | 1 791 862 |
+| Schneider Electric (SU.PA) | 243.45 | -0.55% | +6.47% | -3.89% | 🟢 haussière | 938 898 |
+| Hermès (RMS.PA) | 1 341.50 | -0.81% | -1.54% | +0.30% | 🟢 haussière | 93 439 |
 
 ## Actions à surveiller
 
@@ -67,18 +67,20 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 - **Amazon** (AMZN) — 257.75 | 5j -3.44% | tendance 🟢 haussière
 - **Meta** (META) — 626.41 | 5j -2.33% | tendance 🔴 baissière
 - **Alphabet (Google)** (GOOGL) — 283.72 | 5j -1.54% | tendance 🔴 baissière
-- **LVMH** (MC.PA) — 404.00 | 5j +0.39% | tendance 🟢 haussière
-- **L'Oréal** (OR.PA) — 450.15 | 5j +0.75% | tendance 🟢 haussière
-- **Airbus** (AIR.PA) — 204.15 | 5j -0.90% | tendance 🟢 haussière
-- **TotalEnergies** (TTE.PA) — 81.96 | 5j +4.08% | tendance 🟢 haussière
-- **BNP Paribas** (BNP.PA) — 95.44 | 5j +1.55% | tendance 🟢 haussière
-- **Schneider Electric** (SU.PA) — 241.55 | 5j +3.05% | tendance 🟢 haussière
-- **Hermès** (RMS.PA) — 1 349.50 | 5j -0.30% | tendance 🟢 haussière
+- **LVMH** (MC.PA) — 403.45 | 5j -1.30% | tendance 🟢 haussière
+- **L'Oréal** (OR.PA) — 451.20 | 5j +0.31% | tendance 🟢 haussière
+- **Airbus** (AIR.PA) — 206.65 | 5j +5.22% | tendance 🟢 haussière
+- **TotalEnergies** (TTE.PA) — 82.17 | 5j +3.06% | tendance 🟢 haussière
+- **BNP Paribas** (BNP.PA) — 95.57 | 5j +3.96% | tendance 🟢 haussière
+- **Schneider Electric** (SU.PA) — 243.45 | 5j +6.47% | tendance 🟢 haussière
+- **Hermès** (RMS.PA) — 1 341.50 | 5j -1.54% | tendance 🟢 haussière
 
 ## Signaux positifs
 
-- **TotalEnergies** (TTE.PA) : +4.08% sur 5 jours
-- **Schneider Electric** (SU.PA) : +3.05% sur 5 jours
+- **Schneider Electric** (SU.PA) : +6.47% sur 5 jours
+- **Airbus** (AIR.PA) : +5.22% sur 5 jours
+- **BNP Paribas** (BNP.PA) : +3.96% sur 5 jours
+- **TotalEnergies** (TTE.PA) : +3.06% sur 5 jours
 
 ## Signaux négatifs
 
@@ -96,18 +98,18 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 ## News principales
 
-- [Nvidia investors will be clamoring for these answers during a historic earnings call](https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories) — *MarketWatch*
-- [Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.](https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories) — *MarketWatch*
-- [‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch](https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories) — *MarketWatch*
-- [The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.](https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories) — *MarketWatch*
-- [SpaceX is about to attempt the ‘holy grail’ of rocketry](https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?](https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories) — *MarketWatch*
+- [United Airlines resolves system outage that delayed flights Monday](https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories) — *MarketWatch*
+- [Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir](https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories) — *MarketWatch*
+- [Do Amazon’s Black Friday deals really save you money? A new report casts doubt.](https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories) — *MarketWatch*
+- [My husband is happily retired at 64 and thinks I should keep working. Is he being fair?](https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories) — *MarketWatch*
+- [Chips, Big Tech and more: What hedge funds bought and sold in the third quarter](https://www.cnbc.com/2026/11/16/chips-big-tech-and-more-what-hedge-funds-bought-and-sold-in-the-third-quarter.html) — *CNBC Markets*
+- [Tuesday's big stock stories: What’s likely to move the market in the next trading session](https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html) — *CNBC Markets*
 - [This Anthropic proxy play is getting traders' attention – here's where they see it going](https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html) — *CNBC Markets*
 - [If the AI bubble is popping, history shows these stocks could boom](https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html) — *CNBC Markets*
 - [This food giant has gone nowhere for a year. Jay Woods sees a breakout ahead](https://www.cnbc.com/2026/11/16/kraft-stock-jay-woods.html) — *CNBC Markets*
-- [Two ‘Best Stocks’ are pulling back from highs. Josh Brown on how to trade them from here](https://www.cnbc.com/2026/11/16/moderna-delta-stock-pullbacks-josh-brown-says-watch-these-levels.html) — *CNBC Markets*
-- [Analysts are awed by SpaceX's Starship catch. Here's why](https://www.cnbc.com/2026/11/16/analysts-are-awed-by-spacexs-starship-catch-heres-why-.html) — *CNBC Markets*
-- [Downdetector reports user issues at major US banks](https://www.investing.com/news/stock-market-news/downdetector-reports-outages-at-major-us-banks-5030747) — *Investing.com*
-- [Chevron closes in on $5 billion Beacon deal, FT reports](https://www.investing.com/news/stock-market-news/chevron-to-buy-blackstonebacked-oil-producer-for-5-billion-ft-reports-5030814) — *Investing.com*
+- [India bank unions call strike over IDBI sale to Fairfax](https://www.investing.com/news/stock-market-news/india-bank-unions-call-strike-over-idbi-sale-to-fairfax-93CH-5031655) — *Investing.com*
+- [Why is China’s SMIC stock surging today?](https://www.investing.com/news/stock-market-news/why-is-chinas-smic-stock-surging-today-93CH-5031648) — *Investing.com*
 
 ## Disclaimer
 
