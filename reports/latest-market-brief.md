@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-21 04:20 (UTC)
+**Date et heure de génération :** 2026-11-21 18:18 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -10,10 +10,10 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 **Marché US.** S&P 500 (-3.70% sur 1j, tendance baissière); Nasdaq (-5.28% sur 1j, tendance baissière); Dow Jones (-1.93% sur 1j, tendance baissière); Apple (-1.90% sur 1j, tendance baissière); Microsoft (-2.77% sur 1j, tendance baissière); Nvidia (-14.01% sur 1j, tendance baissière); Tesla (-7.64% sur 1j, tendance baissière); Amazon (-4.10% sur 1j, tendance baissière); Meta (-5.93% sur 1j, tendance baissière); Alphabet (Google) (-2.70% sur 1j, tendance baissière).
 
-**Marché France / Europe.** CAC 40 (-1.89% sur 1j, tendance baissière); Euro Stoxx 50 (-2.81% sur 1j, tendance baissière); DAX (-2.60% sur 1j, tendance baissière); LVMH (+0.98% sur 1j, tendance baissière); L'Oréal (-1.47% sur 1j, tendance baissière); Airbus (+0.18% sur 1j, tendance baissière); TotalEnergies (-0.81% sur 1j, tendance baissière); BNP Paribas (+0.05% sur 1j, tendance haussière); Schneider Electric (-1.18% sur 1j, tendance baissière); Hermès (-0.51% sur 1j, tendance baissière).
+**Marché France / Europe.** CAC 40 (-1.89% sur 1j, tendance baissière); Euro Stoxx 50 (-2.81% sur 1j, tendance baissière); DAX (-2.60% sur 1j, tendance baissière); LVMH (-2.54% sur 1j, tendance baissière); L'Oréal (-0.36% sur 1j, tendance baissière); Airbus (-4.13% sur 1j, tendance baissière); TotalEnergies (-1.23% sur 1j, tendance baissière); BNP Paribas (-2.72% sur 1j, tendance baissière); Schneider Electric (-3.70% sur 1j, tendance baissière); Hermès (-3.66% sur 1j, tendance baissière).
 
 **Signaux positifs à surveiller :** aucun signal marqué sur 5 jours.
-**Signaux négatifs à surveiller :** Nvidia (-22.92% sur 5j), Meta (-12.60% sur 5j), Tesla (-11.38% sur 5j), Alphabet (Google) (-10.31% sur 5j), Nasdaq (-10.02% sur 5j), S&P 500 (-8.61% sur 5j), Dow Jones (-8.02% sur 5j), Microsoft (-7.51% sur 5j), Amazon (-7.44% sur 5j), DAX (-7.28% sur 5j), Euro Stoxx 50 (-6.97% sur 5j), Hermès (-5.95% sur 5j), CAC 40 (-5.27% sur 5j), Airbus (-4.85% sur 5j), Schneider Electric (-3.90% sur 5j), Apple (-3.85% sur 5j), BNP Paribas (-3.79% sur 5j), LVMH (-3.16% sur 5j).
+**Signaux négatifs à surveiller :** Nvidia (-22.92% sur 5j), Meta (-12.60% sur 5j), Tesla (-11.38% sur 5j), Alphabet (Google) (-10.31% sur 5j), Nasdaq (-10.02% sur 5j), Hermès (-8.65% sur 5j), S&P 500 (-8.61% sur 5j), Airbus (-8.08% sur 5j), Dow Jones (-8.02% sur 5j), Microsoft (-7.51% sur 5j), Amazon (-7.44% sur 5j), DAX (-7.28% sur 5j), Euro Stoxx 50 (-6.97% sur 5j), Schneider Electric (-6.94% sur 5j), BNP Paribas (-6.30% sur 5j), LVMH (-5.33% sur 5j), CAC 40 (-5.27% sur 5j), TotalEnergies (-4.84% sur 5j), Apple (-3.85% sur 5j), L'Oréal (-3.59% sur 5j).
 **Risques à suivre :** Nvidia (volatilité élevée), Nvidia (volume inhabituel), Tesla (volatilité élevée), Alphabet (Google) (volatilité élevée), Amazon (volatilité élevée), Meta (volatilité élevée), Microsoft (volume inhabituel), Apple (volume inhabituel), Dow Jones (volume inhabituel).
 
 **Conclusion éducative.** Ce panorama présente des signaux positifs, des signaux négatifs et des risques à suivre, uniquement à titre pédagogique. Il ne constitue pas un conseil financier.
@@ -23,9 +23,9 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| S&P 500 (^GSPC) | 6 910.39 | -3.70% | -8.61% | -10.92% | 🔴 baissière | 4 727 416 000 |
-| Nasdaq (^IXIC) | 22 617.73 | -5.28% | -10.02% | -15.30% | 🔴 baissière | 10 597 030 000 |
-| Dow Jones (^DJI) | 48 147.30 | -1.93% | -8.02% | -8.91% | 🔴 baissière | 1 167 163 269 |
+| S&P 500 (^GSPC) | 6 910.39 | -3.70% | -8.61% | -10.92% | 🔴 baissière | 6 679 680 000 |
+| Nasdaq (^IXIC) | 22 617.73 | -5.28% | -10.02% | -15.30% | 🔴 baissière | 12 469 600 000 |
+| Dow Jones (^DJI) | 48 147.33 | -1.93% | -8.02% | -8.91% | 🔴 baissière | 1 167 160 000 |
 
 ### Watchlist actions US
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
@@ -50,13 +50,13 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 ### Watchlist actions France
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| LVMH (MC.PA) | 391.90 | +0.98% | -3.16% | +1.33% | 🔴 baissière | 779 369 |
-| L'Oréal (OR.PA) | 436.55 | -1.47% | -2.31% | +8.07% | 🔴 baissière | 433 123 |
-| Airbus (AIR.PA) | 198.14 | +0.18% | -4.85% | +2.36% | 🔴 baissière | 1 457 716 |
-| TotalEnergies (TTE.PA) | 79.16 | -0.81% | -1.82% | -0.98% | 🔴 baissière | 4 301 936 |
-| BNP Paribas (BNP.PA) | 92.05 | +0.05% | -3.79% | +5.87% | 🟢 haussière | 3 058 072 |
-| Schneider Electric (SU.PA) | 235.25 | -1.18% | -3.90% | -3.70% | 🔴 baissière | 1 412 122 |
-| Hermès (RMS.PA) | 1 272.00 | -0.51% | -5.95% | -5.00% | 🔴 baissière | 139 686 |
+| LVMH (MC.PA) | 381.95 | -2.54% | -5.33% | -1.24% | 🔴 baissière | 779 369 |
+| L'Oréal (OR.PA) | 435.00 | -0.36% | -3.59% | +7.69% | 🔴 baissière | 433 203 |
+| Airbus (AIR.PA) | 189.96 | -4.13% | -8.08% | -1.87% | 🔴 baissière | 1 457 716 |
+| TotalEnergies (TTE.PA) | 78.19 | -1.23% | -4.84% | -2.19% | 🔴 baissière | 4 301 936 |
+| BNP Paribas (BNP.PA) | 89.55 | -2.72% | -6.30% | +2.99% | 🔴 baissière | 3 058 072 |
+| Schneider Electric (SU.PA) | 226.55 | -3.70% | -6.94% | -7.27% | 🔴 baissière | 1 412 186 |
+| Hermès (RMS.PA) | 1 225.50 | -3.66% | -8.65% | -8.48% | 🔴 baissière | 139 686 |
 
 ## Actions à surveiller
 
@@ -67,13 +67,13 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 - **Amazon** (AMZN) — 246.82 | 5j -7.44% | tendance 🔴 baissière
 - **Meta** (META) — 560.84 | 5j -12.60% | tendance 🔴 baissière
 - **Alphabet (Google)** (GOOGL) — 265.29 | 5j -10.31% | tendance 🔴 baissière
-- **LVMH** (MC.PA) — 391.90 | 5j -3.16% | tendance 🔴 baissière
-- **L'Oréal** (OR.PA) — 436.55 | 5j -2.31% | tendance 🔴 baissière
-- **Airbus** (AIR.PA) — 198.14 | 5j -4.85% | tendance 🔴 baissière
-- **TotalEnergies** (TTE.PA) — 79.16 | 5j -1.82% | tendance 🔴 baissière
-- **BNP Paribas** (BNP.PA) — 92.05 | 5j -3.79% | tendance 🟢 haussière
-- **Schneider Electric** (SU.PA) — 235.25 | 5j -3.90% | tendance 🔴 baissière
-- **Hermès** (RMS.PA) — 1 272.00 | 5j -5.95% | tendance 🔴 baissière
+- **LVMH** (MC.PA) — 381.95 | 5j -5.33% | tendance 🔴 baissière
+- **L'Oréal** (OR.PA) — 435.00 | 5j -3.59% | tendance 🔴 baissière
+- **Airbus** (AIR.PA) — 189.96 | 5j -8.08% | tendance 🔴 baissière
+- **TotalEnergies** (TTE.PA) — 78.19 | 5j -4.84% | tendance 🔴 baissière
+- **BNP Paribas** (BNP.PA) — 89.55 | 5j -6.30% | tendance 🔴 baissière
+- **Schneider Electric** (SU.PA) — 226.55 | 5j -6.94% | tendance 🔴 baissière
+- **Hermès** (RMS.PA) — 1 225.50 | 5j -8.65% | tendance 🔴 baissière
 
 ## Signaux positifs
 
@@ -86,19 +86,21 @@ _Aucun signal marqué sur 5 jours._
 - **Tesla** (TSLA) : -11.38% sur 5 jours
 - **Alphabet (Google)** (GOOGL) : -10.31% sur 5 jours
 - **Nasdaq** (^IXIC) : -10.02% sur 5 jours
+- **Hermès** (RMS.PA) : -8.65% sur 5 jours
 - **S&P 500** (^GSPC) : -8.61% sur 5 jours
+- **Airbus** (AIR.PA) : -8.08% sur 5 jours
 - **Dow Jones** (^DJI) : -8.02% sur 5 jours
 - **Microsoft** (MSFT) : -7.51% sur 5 jours
 - **Amazon** (AMZN) : -7.44% sur 5 jours
 - **DAX** (^GDAXI) : -7.28% sur 5 jours
 - **Euro Stoxx 50** (^STOXX50E) : -6.97% sur 5 jours
-- **Hermès** (RMS.PA) : -5.95% sur 5 jours
+- **Schneider Electric** (SU.PA) : -6.94% sur 5 jours
+- **BNP Paribas** (BNP.PA) : -6.30% sur 5 jours
+- **LVMH** (MC.PA) : -5.33% sur 5 jours
 - **CAC 40** (^FCHI) : -5.27% sur 5 jours
-- **Airbus** (AIR.PA) : -4.85% sur 5 jours
-- **Schneider Electric** (SU.PA) : -3.90% sur 5 jours
+- **TotalEnergies** (TTE.PA) : -4.84% sur 5 jours
 - **Apple** (AAPL) : -3.85% sur 5 jours
-- **BNP Paribas** (BNP.PA) : -3.79% sur 5 jours
-- **LVMH** (MC.PA) : -3.16% sur 5 jours
+- **L'Oréal** (OR.PA) : -3.59% sur 5 jours
 
 ## Risques à suivre
 
@@ -114,18 +116,18 @@ _Aucun signal marqué sur 5 jours._
 
 ## News principales
 
-- [Tech outages are rattling Americans so much that they’re stockpiling cash and supplies](https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories) — *MarketWatch*
-- [Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020](https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories) — *MarketWatch*
-- [Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade](https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories) — *MarketWatch*
-- [These stocks were crushed the most this week as the tech wreck accelerated](https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories) — *MarketWatch*
-- [Nvidia’s stock clinches a stretch of weekly losses not seen since 2008](https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories) — *MarketWatch*
+- [Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories) — *MarketWatch*
+- [‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?](https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories) — *MarketWatch*
+- [Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag](https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories) — *MarketWatch*
+- [‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?](https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories) — *MarketWatch*
+- [From trash to treasure: Most hated stocks are winning as AI bull market rolls over](https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html) — *CNBC Markets*
+- [The five best stocks to buy before year-end, according to Bank of America](https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html) — *CNBC Markets*
 - [Meta is stuck in a trading range. The charts show where to buy](https://www.cnbc.com/2026/11/20/meta-is-stuck-in-a-trading-range-the-charts-show-where-to-buy.html) — *CNBC Markets*
 - [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) — *CNBC Markets*
 - [Anthropic could be tipping point for AI trade. Where investors should go from here](https://www.cnbc.com/2026/11/20/stock-market-rotation-beyond-ai.html) — *CNBC Markets*
-- [Berkshire Hathaway has been a popular 'anti-AI trade.' One firm says it’s too expensive now](https://www.cnbc.com/2026/11/20/berkshire-hathaway-has-been-a-popular-anti-ai-trade-one-firm-says-its-too-expensive-now.html) — *CNBC Markets*
-- [As Anthropic shares tank, investors scramble to hedge. It could be very expensive](https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html) — *CNBC Markets*
-- [Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees](https://www.investing.com/news/stock-market-news/analysiswall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-5042444) — *Investing.com*
-- [Singaporean extradited to face US charges over global insider trading scheme](https://www.investing.com/news/stock-market-news/singaporean-extradited-to-face-us-charges-over-global-insider-trading-scheme-5042823) — *Investing.com*
+- [Spain to extend banking tax through 2027 to fund housing policies](https://www.investing.com/news/stock-market-news/spain-to-extend-banking-tax-through-2027-to-fund-housing-policies-5043370) — *Investing.com*
+- [UBS assesses impact of nationwide ground stop on US airlines’ 4Q outlook](https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328) — *Investing.com*
 
 ## Disclaimer
 
