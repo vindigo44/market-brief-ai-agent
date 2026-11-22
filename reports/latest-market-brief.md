@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-21 18:18 (UTC)
+**Date et heure de génération :** 2026-11-22 03:35 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -116,18 +116,18 @@ _Aucun signal marqué sur 5 jours._
 
 ## News principales
 
-- [Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories) — *MarketWatch*
-- [‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?](https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories) — *MarketWatch*
-- [Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag](https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories) — *MarketWatch*
-- [‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?](https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories) — *MarketWatch*
+- [My husband is happily retired at 64 and thinks I should keep working. Is he being fair?](https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories) — *MarketWatch*
+- [My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?](https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?](https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories) — *MarketWatch*
+- [‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?](https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories) — *MarketWatch*
+- [‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?](https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories) — *MarketWatch*
 - [From trash to treasure: Most hated stocks are winning as AI bull market rolls over](https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html) — *CNBC Markets*
 - [The five best stocks to buy before year-end, according to Bank of America](https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html) — *CNBC Markets*
 - [Meta is stuck in a trading range. The charts show where to buy](https://www.cnbc.com/2026/11/20/meta-is-stuck-in-a-trading-range-the-charts-show-where-to-buy.html) — *CNBC Markets*
 - [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) — *CNBC Markets*
 - [Anthropic could be tipping point for AI trade. Where investors should go from here](https://www.cnbc.com/2026/11/20/stock-market-rotation-beyond-ai.html) — *CNBC Markets*
-- [Spain to extend banking tax through 2027 to fund housing policies](https://www.investing.com/news/stock-market-news/spain-to-extend-banking-tax-through-2027-to-fund-housing-policies-5043370) — *Investing.com*
-- [UBS assesses impact of nationwide ground stop on US airlines’ 4Q outlook](https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328) — *Investing.com*
+- [German industrial strikes widen as IG Metall calls 23,000 workers to walk out](https://www.investing.com/news/stock-market-news/german-industrial-strikes-widen-as-ig-metall-calls-23000-workers-to-walk-out-5043690) — *Investing.com*
+- [China’s AI stocks lose $1.7 trillion as tech selloff deepens](https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672) — *Investing.com*
 
 ## Disclaimer
 
