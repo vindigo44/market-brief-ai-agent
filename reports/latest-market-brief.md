@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-22 03:35 (UTC)
+**Date et heure de génération :** 2026-11-22 18:42 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -116,18 +116,18 @@ _Aucun signal marqué sur 5 jours._
 
 ## News principales
 
-- [My husband is happily retired at 64 and thinks I should keep working. Is he being fair?](https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories) — *MarketWatch*
-- [My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?](https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?](https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories) — *MarketWatch*
-- [‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?](https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories) — *MarketWatch*
-- [‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?](https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories) — *MarketWatch*
+- [These little-known investments could be among the best bargains in a crash](https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories) — *MarketWatch*
+- [Private equity has been buying up hospice centers — with striking consequences](https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories) — *MarketWatch*
+- [‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories) — *MarketWatch*
+- [I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?](https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories) — *MarketWatch*
+- [‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch](https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories) — *MarketWatch*
+- [Top Wall Street analysts favor these 3 dividend stocks for strong returns](https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html) — *CNBC Markets*
+- [As prediction markets grow, so do the number of short sellers counting on DraftKings to fall](https://www.cnbc.com/2026/11/22/draftkings-short-interest-prediction-markets.html) — *CNBC Markets*
+- [The Nasdaq is in freefall. Here's one stock to look at](https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html) — *CNBC Markets*
 - [From trash to treasure: Most hated stocks are winning as AI bull market rolls over](https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html) — *CNBC Markets*
 - [The five best stocks to buy before year-end, according to Bank of America](https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html) — *CNBC Markets*
-- [Meta is stuck in a trading range. The charts show where to buy](https://www.cnbc.com/2026/11/20/meta-is-stuck-in-a-trading-range-the-charts-show-where-to-buy.html) — *CNBC Markets*
-- [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) — *CNBC Markets*
-- [Anthropic could be tipping point for AI trade. Where investors should go from here](https://www.cnbc.com/2026/11/20/stock-market-rotation-beyond-ai.html) — *CNBC Markets*
-- [German industrial strikes widen as IG Metall calls 23,000 workers to walk out](https://www.investing.com/news/stock-market-news/german-industrial-strikes-widen-as-ig-metall-calls-23000-workers-to-walk-out-5043690) — *Investing.com*
-- [China’s AI stocks lose $1.7 trillion as tech selloff deepens](https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672) — *Investing.com*
+- [US intelligence chief predicts more tech outages as systems undergo upgrades](https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089) — *Investing.com*
+- [US seeks answers on Nvidia’s sale of chips to China, Bessent says](https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083) — *Investing.com*
 
 ## Disclaimer
 
