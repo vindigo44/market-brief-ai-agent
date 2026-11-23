@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-22 18:42 (UTC)
+**Date et heure de génération :** 2026-11-23 04:07 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -116,18 +116,18 @@ _Aucun signal marqué sur 5 jours._
 
 ## News principales
 
+- [Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport](https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories) — *MarketWatch*
+- [Ron Johnson’s Social Security gaffe buried important news](https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories) — *MarketWatch*
+- [Social Security should be shut down, this Republican senator says](https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories) — *MarketWatch*
+- [Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill](https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories) — *MarketWatch*
 - [These little-known investments could be among the best bargains in a crash](https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories) — *MarketWatch*
-- [Private equity has been buying up hospice centers — with striking consequences](https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories) — *MarketWatch*
-- [‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?](https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories) — *MarketWatch*
-- [‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch](https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories) — *MarketWatch*
 - [Top Wall Street analysts favor these 3 dividend stocks for strong returns](https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html) — *CNBC Markets*
 - [As prediction markets grow, so do the number of short sellers counting on DraftKings to fall](https://www.cnbc.com/2026/11/22/draftkings-short-interest-prediction-markets.html) — *CNBC Markets*
 - [The Nasdaq is in freefall. Here's one stock to look at](https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html) — *CNBC Markets*
 - [From trash to treasure: Most hated stocks are winning as AI bull market rolls over](https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html) — *CNBC Markets*
 - [The five best stocks to buy before year-end, according to Bank of America](https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html) — *CNBC Markets*
-- [US intelligence chief predicts more tech outages as systems undergo upgrades](https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089) — *Investing.com*
-- [US seeks answers on Nvidia’s sale of chips to China, Bessent says](https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083) — *Investing.com*
+- [Why is Infragreen stock surging today?](https://www.investing.com/news/stock-market-news/why-is-infragreen-stock-surging-today-93CH-5044279) — *Investing.com*
+- [Downer shares jump over 3% on $730 million NSW transmission contract](https://www.investing.com/news/stock-market-news/downer-shares-jump-over-3-on-730-million-nsw-transmission-contract-5044278) — *Investing.com*
 
 ## Disclaimer
 
