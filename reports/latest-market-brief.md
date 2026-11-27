@@ -1,6 +1,6 @@
 # Market Brief AI Agent
 
-**Date et heure de génération :** 2026-11-26 20:35 (UTC)
+**Date et heure de génération :** 2026-11-27 05:27 (UTC)
 
 > ⚠️ Analyse **éducative** générée automatiquement. Elle ne constitue **pas** un conseil financier.
 
@@ -10,10 +10,10 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 
 **Marché US.** S&P 500 (-0.25% sur 1j, tendance baissière); Nasdaq (-0.62% sur 1j, tendance baissière); Dow Jones (+0.33% sur 1j, tendance baissière); Apple (+0.43% sur 1j, tendance haussière); Microsoft (-1.25% sur 1j, tendance baissière); Nvidia (-3.91% sur 1j, tendance baissière); Tesla (-1.18% sur 1j, tendance baissière); Amazon (-3.12% sur 1j, tendance baissière); Meta (+3.40% sur 1j, tendance baissière); Alphabet (Google) (-2.13% sur 1j, tendance baissière).
 
-**Marché France / Europe.** CAC 40 (+1.61% sur 1j, tendance baissière); Euro Stoxx 50 (+2.04% sur 1j, tendance baissière); DAX (+2.08% sur 1j, tendance baissière); LVMH (+2.57% sur 1j, tendance haussière); L'Oréal (+0.71% sur 1j, tendance haussière); Airbus (+2.02% sur 1j, tendance baissière); TotalEnergies (+1.40% sur 1j, tendance baissière); BNP Paribas (+2.74% sur 1j, tendance baissière); Schneider Electric (+1.11% sur 1j, tendance baissière); Hermès (+1.64% sur 1j, tendance baissière).
+**Marché France / Europe.** CAC 40 (+1.61% sur 1j, tendance baissière); Euro Stoxx 50 (+2.04% sur 1j, tendance baissière); DAX (+2.08% sur 1j, tendance baissière); LVMH (-0.94% sur 1j, tendance baissière); L'Oréal (+0.25% sur 1j, tendance baissière); Airbus (-1.88% sur 1j, tendance baissière); TotalEnergies (-0.51% sur 1j, tendance baissière); BNP Paribas (-2.28% sur 1j, tendance baissière); Schneider Electric (-4.18% sur 1j, tendance baissière); Hermès (+0.08% sur 1j, tendance baissière).
 
 **Signaux positifs à surveiller :** aucun signal marqué sur 5 jours.
-**Signaux négatifs à surveiller :** Amazon (-8.71% sur 5j), Schneider Electric (-6.89% sur 5j), Microsoft (-3.61% sur 5j), Nasdaq (-3.46% sur 5j), Alphabet (Google) (-3.31% sur 5j).
+**Signaux négatifs à surveiller :** Schneider Electric (-8.99% sur 5j), Amazon (-8.71% sur 5j), BNP Paribas (-4.11% sur 5j), Airbus (-3.93% sur 5j), Microsoft (-3.61% sur 5j), Nasdaq (-3.46% sur 5j), Alphabet (Google) (-3.31% sur 5j), TotalEnergies (-3.17% sur 5j).
 **Risques à suivre :** Nvidia (volatilité élevée), Tesla (volatilité élevée), Alphabet (Google) (volatilité élevée), Meta (volatilité élevée), Amazon (volatilité élevée), Nasdaq (volatilité élevée).
 
 **Conclusion éducative.** Ce panorama présente des signaux positifs, des signaux négatifs et des risques à suivre, uniquement à titre pédagogique. Il ne constitue pas un conseil financier.
@@ -43,20 +43,20 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 ### Indices
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| CAC 40 (^FCHI) | 8 108.74 | +1.61% | +0.35% | +3.33% | 🔴 baissière | 0 |
-| Euro Stoxx 50 (^STOXX50E) | 6 014.74 | +2.04% | -1.62% | -1.66% | 🔴 baissière | 0 |
-| DAX (^GDAXI) | 25 215.52 | +2.08% | -0.98% | -0.77% | 🔴 baissière | 0 |
+| CAC 40 (^FCHI) | 8 108.74 | +1.61% | +0.35% | +3.33% | 🔴 baissière | 51 876 700 |
+| Euro Stoxx 50 (^STOXX50E) | 6 014.74 | +2.04% | -1.62% | -1.66% | 🔴 baissière | 15 939 500 |
+| DAX (^GDAXI) | 25 215.52 | +2.08% | -0.98% | -0.77% | 🔴 baissière | 44 067 200 |
 
 ### Watchlist actions France
 | Actif | Dernier | 1j | 5j | 1 mois | Tendance | Volume |
 | --- | ---: | ---: | ---: | ---: | :---: | ---: |
-| LVMH (MC.PA) | 401.05 | +2.57% | +2.33% | +4.06% | 🟢 haussière | 381 298 |
-| L'Oréal (OR.PA) | 445.15 | +0.71% | +1.97% | +2.05% | 🟢 haussière | 299 861 |
-| Airbus (AIR.PA) | 193.84 | +2.02% | -2.17% | +0.23% | 🔴 baissière | 806 307 |
-| TotalEnergies (TTE.PA) | 78.36 | +1.40% | -1.01% | -6.54% | 🔴 baissière | 2 177 123 |
-| BNP Paribas (BNP.PA) | 90.64 | +2.74% | -1.53% | +5.95% | 🔴 baissière | 1 983 792 |
-| Schneider Electric (SU.PA) | 219.05 | +1.11% | -6.89% | -7.06% | 🔴 baissière | 967 983 |
-| Hermès (RMS.PA) | 1 272.50 | +1.64% | +0.04% | -0.47% | 🔴 baissière | 57 741 |
+| LVMH (MC.PA) | 391.00 | -0.94% | +0.75% | +1.45% | 🔴 baissière | 381 298 |
+| L'Oréal (OR.PA) | 442.00 | +0.25% | -0.24% | +1.33% | 🔴 baissière | 299 861 |
+| Airbus (AIR.PA) | 190.00 | -1.88% | -3.93% | -1.76% | 🔴 baissière | 803 270 |
+| TotalEnergies (TTE.PA) | 77.28 | -0.51% | -3.17% | -7.82% | 🔴 baissière | 2 170 615 |
+| BNP Paribas (BNP.PA) | 88.22 | -2.28% | -4.11% | +3.12% | 🔴 baissière | 1 983 792 |
+| Schneider Electric (SU.PA) | 216.65 | -4.18% | -8.99% | -8.08% | 🔴 baissière | 967 709 |
+| Hermès (RMS.PA) | 1 252.00 | +0.08% | -2.07% | -2.07% | 🔴 baissière | 57 741 |
 
 ## Actions à surveiller
 
@@ -67,13 +67,13 @@ _Résumé généré localement (mode fallback, sans IA). Analyse éducative, ne 
 - **Amazon** (AMZN) — 244.43 | 5j -8.71% | tendance 🔴 baissière
 - **Meta** (META) — 609.89 | 5j -1.05% | tendance 🔴 baissière
 - **Alphabet (Google)** (GOOGL) — 273.10 | 5j -3.31% | tendance 🔴 baissière
-- **LVMH** (MC.PA) — 401.05 | 5j +2.33% | tendance 🟢 haussière
-- **L'Oréal** (OR.PA) — 445.15 | 5j +1.97% | tendance 🟢 haussière
-- **Airbus** (AIR.PA) — 193.84 | 5j -2.17% | tendance 🔴 baissière
-- **TotalEnergies** (TTE.PA) — 78.36 | 5j -1.01% | tendance 🔴 baissière
-- **BNP Paribas** (BNP.PA) — 90.64 | 5j -1.53% | tendance 🔴 baissière
-- **Schneider Electric** (SU.PA) — 219.05 | 5j -6.89% | tendance 🔴 baissière
-- **Hermès** (RMS.PA) — 1 272.50 | 5j +0.04% | tendance 🔴 baissière
+- **LVMH** (MC.PA) — 391.00 | 5j +0.75% | tendance 🔴 baissière
+- **L'Oréal** (OR.PA) — 442.00 | 5j -0.24% | tendance 🔴 baissière
+- **Airbus** (AIR.PA) — 190.00 | 5j -3.93% | tendance 🔴 baissière
+- **TotalEnergies** (TTE.PA) — 77.28 | 5j -3.17% | tendance 🔴 baissière
+- **BNP Paribas** (BNP.PA) — 88.22 | 5j -4.11% | tendance 🔴 baissière
+- **Schneider Electric** (SU.PA) — 216.65 | 5j -8.99% | tendance 🔴 baissière
+- **Hermès** (RMS.PA) — 1 252.00 | 5j -2.07% | tendance 🔴 baissière
 
 ## Signaux positifs
 
@@ -81,11 +81,14 @@ _Aucun signal marqué sur 5 jours._
 
 ## Signaux négatifs
 
+- **Schneider Electric** (SU.PA) : -8.99% sur 5 jours
 - **Amazon** (AMZN) : -8.71% sur 5 jours
-- **Schneider Electric** (SU.PA) : -6.89% sur 5 jours
+- **BNP Paribas** (BNP.PA) : -4.11% sur 5 jours
+- **Airbus** (AIR.PA) : -3.93% sur 5 jours
 - **Microsoft** (MSFT) : -3.61% sur 5 jours
 - **Nasdaq** (^IXIC) : -3.46% sur 5 jours
 - **Alphabet (Google)** (GOOGL) : -3.31% sur 5 jours
+- **TotalEnergies** (TTE.PA) : -3.17% sur 5 jours
 
 ## Risques à suivre
 
@@ -98,18 +101,18 @@ _Aucun signal marqué sur 5 jours._
 
 ## News principales
 
-- [A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?](https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories) — *MarketWatch*
-- [I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?](https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories) — *MarketWatch*
+- [Is the stock market open on Black Friday?](https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories) — *MarketWatch*
 - [I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?](https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories) — *MarketWatch*
-- [I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?](https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories) — *MarketWatch*
+- [I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?](https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories) — *MarketWatch*
 - [We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance](https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories) — *MarketWatch*
+- [‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?](https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories) — *MarketWatch*
 - [Semiconductor chips are the new oil. Here's why](https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html) — *CNBC Markets*
 - [Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?](https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html) — *CNBC Markets*
 - [Anthropic teeters at $1 trillion market cap. Why it may stabilize from here](https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html) — *CNBC Markets*
 - [This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk](https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html) — *CNBC Markets*
 - [A beer stock to toast this holiday season with nearly 30% potential upside](https://www.cnbc.com/2026/11/25/a-beer-stock-to-toast-this-holiday-season-with-nearly-30percent-potential-upside.html) — *CNBC Markets*
-- [TSX climbs nearly 1% on boost from battery metal stocks, labor market data](https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325) — *Investing.com*
-- [Retail inventories and goods trade balance among economic data due Friday](https://www.investing.com/news/stock-market-news/retail-inventories-and-goods-trade-balance-among-economic-data-due-friday-93CH-5052685) — *Investing.com*
+- [Why is Marco Polo Marine stock climbing today?](https://www.investing.com/news/stock-market-news/why-is-marco-polo-marine-stock-climbing-today-93CH-5052912) — *Investing.com*
+- [Why is Arcadia Minerals stock surging today?](https://www.investing.com/news/stock-market-news/why-is-arcadia-minerals-stock-surging-today-93CH-5052899) — *Investing.com*
 
 ## Disclaimer
 
